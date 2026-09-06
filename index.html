@@ -109,11 +109,36 @@
       font-size: .82rem;
       padding: 2rem 1rem 3rem;
       border-top: 1px solid var(--line);
+       .hero {
+      position: relative;
     }
+    .hero .mark,
+    .hero h1,
+    .hero .tag {
+      position: relative;
+      z-index: 1;
+    }
+    .crest {
+      position: absolute;
+      left: 50%;
+      top: 10%;
+      transform: translateX(-50%);
+      width: min(280px, 70vw);
+      height: auto;
+      opacity: 0.09;
+      pointer-events: none;
+      z-index: 0;
+     }
   </style>
 </head>
 <body>
-  <header>
+    <header class="hero">
+    <svg class="crest" viewBox="0 0 200 240" aria-hidden="true">
+      <path fill="#c4a35a" d="M100 8 L188 42 V132 C188 186 148 220 100 232 C52 220 12 186 12 132 V42 Z"/>
+      <path fill="#0e0c0a" d="M100 22 L174 50 V128 C174 174 140 204 100 214 C60 204 26 174 26 128 V50 Z"/>
+      <path fill="#c4a35a" d="M100 58 L108 86 H138 L114 104 L124 134 L100 116 L76 134 L86 104 L62 86 H92 Z"/>
+      <path fill="#c4a35a" d="M100 70 C92 92 78 102 70 118 C86 112 94 122 100 138 C106 122 114 112 130 118 C122 102 108 92 100 70 Z"/>
+    </svg>
     <div class="mark" aria-hidden="true">SG</div>
     <h1>Shadow Garden</h1>
     <p class="tag">Built by Foxx</p>
