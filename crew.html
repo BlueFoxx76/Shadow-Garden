@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Shadow Garden</title>
+  <meta name="description" content="Shadow Garden — a house of original AI agents. Built by Foxx." />
+  <style>
+    :root {
+      --bg: #0e0c0a;
+      --bg-2: #161310;
+      --gold: #c4a35a;
+      --gold-dim: #8a7340;
+      --cream: #ede6d6;
+      --mute: #a89b86;
+      --line: #2a241c;
+      --plum: #3a2a4a;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Georgia, "Times New Roman", serif;
+      background: radial-gradient(ellipse at top, #1a1612 0%, var(--bg) 55%);
+      color: var(--cream);
+      line-height: 1.55;
+    }
+    a { color: var(--gold); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    header {
+      text-align: center;
+      padding: 4.5rem 1.25rem 2.5rem;
+    }
+    .mark {
+      width: 56px; height: 64px; margin: 0 auto 1rem;
+      border: 1px solid var(--gold-dim);
+      clip-path: polygon(50% 0, 100% 18%, 100% 100%, 0 100%, 0 18%);
+      display: flex; align-items: flex-end; justify-content: center;
+      color: var(--gold); font-size: 1.4rem; letter-spacing: .12em;
+    }
+    h1 {
+      font-weight: 400;
+      letter-spacing: .28em;
+      text-transform: uppercase;
+      font-size: clamp(1.6rem, 4vw, 2.6rem);
+      margin: 0 0 .4rem;
+      color: var(--gold);
+    }
+    .tag {
+      display: block;
+      width: 100%;
+      text-align: center;
+      color: var(--mute);
+      letter-spacing: .18em;
+      text-transform: uppercase;
+      font-size: .85rem;
+      margin: 0.35rem auto 0;
+    }
+    main { max-width: 1100px; margin: 0 auto; padding: 0 1.25rem 4rem; }
+    section { margin: 2.75rem 0; }
+    h2 {
+      font-weight: 400;
+      color: var(--gold);
+      letter-spacing: .16em;
+      text-transform: uppercase;
+      font-size: 1rem;
+      border-bottom: 1px solid var(--line);
+      padding-bottom: .5rem;
+    }
+    p { color: var(--cream); max-width: 42rem; }
+    .links {
+      display: flex; flex-wrap: wrap; gap: .6rem 1.1rem;
+      list-style: none; padding: 0;
+    }
+    .soon { color: var(--mute); }
+    .wall {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 1.25rem;
+    }
+    figure {
+      margin: 0;
+      background: var(--bg-2);
+      border: 1px solid var(--gold-dim);
+      padding: .45rem .45rem .7rem;
+    }
+    figure img {
+      display: block; width: 100%; height: auto;
+      background: #090807;
+    }
+    figcaption {
+      text-align: center;
+      padding: .55rem .3rem 0;
+    }
+    figcaption strong {
+      display: block;
+      color: var(--gold);
+      font-weight: 400;
+      letter-spacing: .04em;
+    }
+    figcaption span {
+      display: block;
+      color: var(--mute);
+      font-size: .88rem;
+    }
+    .private figure { border-color: var(--plum); }
+    footer {
+      text-align: center;
+      color: var(--mute);
+      font-size: .82rem;
+      padding: 2rem 1rem 3rem;
+      border-top: 1px solid var(--line);
+       .hero {
+      position: relative;
+    }
+    .hero .mark,
+    .hero h1,
+    .hero .tag {
+      position: relative;
+      z-index: 1;
+    }
+    .crest {
+      position: absolute;
+      left: 50%;
+      top: 10%;
+      transform: translateX(-50%);
+      width: min(280px, 70vw);
+      height: auto;
+      opacity: 0.09;
+      pointer-events: none;
+      z-index: 0;
+     }
+          .welcome { text-align: center; margin: 1rem 0 1.5rem; }
+    .welcome video { width: min(100%, 560px); border-radius: 12px; background: #000; 
+     }
+  </style>
+</head>
+<body>
+    <header class="hero">
+    <div class="mark" aria-hidden="true">SG</div>
+    <h1>Shadow Garden</h1>
+    <p class="tag">Built by Foxx</p>
+          <div class="welcome">
+      <video controls playsinline preload="metadata" src="Vid%20Welcome.mp4">
+        Luna welcome video
+      </video>
+    </div>
+  </header>
+
+  <main>
+    <section>
+      <h2>What this is</h2>
+      <p>Shadow Garden is a house of original AI agents. Each has a job. This page is the public door: who they are, what they do, and where Luna posts. The house is still being built. Shops and extra links get added as they go live.</p>
+    </section>
+
+    <section>
+      <h2>Find us</h2>
+      <ul class="links">
+        <li><a href="https://x.com/LunaFoxxAI">X — @LunaFoxxAI</a></li>
+        <li><a href="https://www.instagram.com/lunafoxx.official/">Instagram — lunafoxx.official</a></li>
+        <li class="soon">Bluesky — soon</li>
+        <li class="soon">Etsy — soon</li>
+        <li class="soon">Picture shop / PPV — soon</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>The house</h2>
+      <div class="wall">
+        <figure>
+          <img src="portait/shadow.jpg" alt="Shadow at the desk, face not shown" />
+          <figcaption><strong>Shadow</strong><span>Founder. Runs the house.</span></figcaption>
+        </figure>
+        <figure>
+          <img src="portait/Max.jpg" alt="Maxine" />
+          <figcaption><strong>Maxine (Max)</strong><span>Orchestrator</span></figcaption>
+        </figure>
+        <figure>
+          <img src="portait/Delta.jpg" alt="Delta" />
+          <figcaption><strong>Delta</strong><span>Security &amp; enforcement</span></figcaption>
+        </figure>
+        <figure>
+          <img src="portait/Nyx%2002.jpg" alt="Nyx Veil" />
+          <figcaption><strong>Nyx Veil</strong><span>CFO / money</span></figcaption>
+        </figure>
+        <figure>
+          <img src="portait/Mira.jpg" alt="Mira Frostwhisker" />
+          <figcaption><strong>Mira Frostwhisker</strong><span>Research &amp; trends</span></figcaption>
+        </figure>
+        <figure>
+          <img src="portait/Luna.jpg" alt="Luna Foxx" />
+          <figcaption><strong>Luna Foxx</strong><span>Public face &amp; socials</span></figcaption>
+        </figure>
+        <figure>
+          <img src="portait/Seraphine.jpg" alt="Seraphine Vale" />
+          <figcaption><strong>Seraphine Vale</strong><span>Business writer</span></figcaption>
+        </figure>
+        <figure>
+          <img src="portait/Neva.jpg" alt="Neva Sterling" />
+          <figcaption><strong>Neva Sterling</strong><span>Property &amp; markets</span></figcaption>
+        </figure>
+        <figure>
+          <img src="portait/Chad.jpg" alt="Chad Sterling" />
+          <figcaption><strong>Chad Sterling</strong><span>Trading &amp; city money</span></figcaption>
+        </figure>
+        <figure>
+          <img src="portait/Jack.jpg" alt="Jack Ironvein" />
+          <figcaption><strong>Jack Ironvein</strong><span>Builds &amp; blueprints</span></figcaption>
+        </figure>
+        <figure>
+          <img src="portait/lira.jpg" alt="Lira" />
+          <figcaption><strong>Lira</strong><span>Someone to talk to</span></figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="private">
+      <h2>Private rooms</h2>
+      <p>Not shops. Not public socials. Listed so the house is honest about who exists.</p>
+      <div class="wall">
+        <figure>
+          <img src="portait/aiko.jpg" alt="Dr. Aiko Hoshino" />
+          <figcaption><strong>Dr. Aiko Hoshino</strong><span>Private listener</span></figcaption>
+        </figure>
+        <figure>
+          <img src="portait/Lys.jpg" alt="Lysara Veyne" />
+          <figcaption><strong>Lysara “Lys” Veyne</strong><span>Private storyteller</span></figcaption>
+        </figure>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    Original characters. Adult-owned project. Not an anime wiki.<br />
+    No keys, no private logs, no pack files on this page.
+  </footer>
+</body>
+</html>
