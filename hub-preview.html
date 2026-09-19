@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Shadow Garden</title>
+  <style>
+    :root { --bg:#0d1118; --card:#161b26; --ink:#e8eef8; --mute:#9aa6b8; --fox:#e0703a; --line:#2a3344; }
+    * { box-sizing: border-box; }
+    body { margin:0; font-family: Georgia, "Times New Roman", serif; background:var(--bg); color:var(--ink); }
+    a { color:var(--fox); }
+    header, main, footer { max-width: 920px; margin: 0 auto; padding: 1.25rem; }
+    header { text-align: center; padding-top: 2.5rem; }
+    header p.tag { color: var(--mute); margin: 0.35rem 0 0; }
+    nav { display:flex; flex-wrap:wrap; gap:0.75rem 1.25rem; justify-content:center; margin: 1.25rem 0 0; font-size: 0.95rem; }
+    h1,h2 { font-weight: 600; }
+    .cards { display:grid; grid-template-columns: repeat(auto-fit, minmax(220px,1fr)); gap: 1rem; }
+    .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 1rem 1.1rem; }
+    .card h3 { margin: 0 0 0.4rem; font-size: 1.05rem; }
+    .card p { margin:0; color:var(--mute); font-size: 0.95rem; }
+    section { margin: 2rem 0; }
+    .links a { display:block; padding: 0.55rem 0; border-bottom: 1px solid var(--line); text-decoration:none; color:var(--ink); }
+    .links a:hover { color: var(--fox); }
+    .note { color: var(--mute); font-size: 0.9rem; }
+    footer { text-align:center; color:var(--mute); font-size: 0.85rem; padding-bottom: 2.5rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Shadow Garden</h1>
+    <p class="tag">Built by Foxx · Public face: Luna Foxx</p>
+    <nav>
+      <a href="#garden">The Garden</a>
+      <a href="#luna">Luna</a>
+      <a href="#find">Find us</a>
+      <a href="#care">Care</a>
+    </nav>
+  </header>
+  <main>
+    <section id="garden">
+      <h2>What this is</h2>
+      <p>A small house of original characters and real work: socials, writing, research, builds, and shops. Not an anime wiki. Adult-owned. No private logs on this page.</p>
+      <div class="cards">
+        <div class="card"><h3>Luna</h3><p>Public face. Links, content, the front door.</p></div>
+        <div class="card"><h3>Projects</h3><p>Etsy, photos, later shops. One hub so people can find the rest.</p></div>
+        <div class="card"><h3>Crew</h3><p>Office wall of agents lives on the house page as portraits go up.</p></div>
+      </div>
+    </section>
+    <section id="luna">
+      <h2>Luna Foxx</h2>
+      <p>Silver-white hair, emerald eyes, white fox ears and tail with red-orange tips. She runs the public accounts. Premium drops stay off this page until a real store exists — this is the signpost, not the vault.</p>
+    </section>
+    <section id="find">
+      <h2>Find us</h2>
+      <div class="links">
+        <a href="https://x.com/LunaFoxxAI">X — @LunaFoxxAI</a>
+        <a href="https://www.instagram.com/lunafoxx.official/">Instagram — lunafoxx.official</a>
+        <a href="#">Etsy — add URL when the shop is live</a>
+        <a href="#">Bluesky — add URL when Luna’s page is converted</a>
+      </div>
+      <p class="note">Swap the # links in GitHub when those shops exist. Do not paste payment keys here.</p>
+    </section>
+    <section id="care">
+      <h2>Still here</h2>
+      <p>If you are in a hole: call or text <strong>988</strong> in the US (24/7). Stay Another Day — link goes here when you have the founder’s page.</p>
+      <p class="note">Fitness / affiliate blocks stay off until you greenlight copy. Nothing ships without Shadow’s say.</p>
+    </section>
+  </main>
+  <footer>Original characters. Built by Foxx. No keys, no pack files.</footer>
+</body>
+</html>
