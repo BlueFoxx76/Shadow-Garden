@@ -1,0 +1,185 @@
+{
+  "updated": "2026-10-05 18:57 CDT",
+  "updated_iso": "2026-10-05T18:57:28-05:00",
+  "server_time": "2026-10-05T18:57:28-05:00",
+  "is_night": false,
+  "poll_seconds": 120,
+  "goal": {
+    "monthly_target": 6000,
+    "monthly_income": null,
+    "note": "Nyx updates with real numbers only"
+  },
+  "tasks": [],
+  "handoffs": [],
+  "agents": [
+    {
+      "name": "Max",
+      "place": "command_hall",
+      "activity": "Reviewing product options",
+      "status": "working",
+      "last_active": "2026-10-05T18:52:12-05:00",
+      "role": "Elf · Orchestrator",
+      "projects": [],
+      "skills": [
+        "Task Routing",
+        "Status Tracking",
+        "Daily Check-In",
+        "Decision Queue",
+        "Quality Check",
+        "Priority Filter"
+      ],
+      "open_tasks": []
+    },
+    {
+      "name": "Nyx",
+      "place": "counting_house",
+      "activity": "Resting",
+      "status": "sleeping",
+      "last_active": null,
+      "role": "Neko · CFO",
+      "projects": [],
+      "skills": [
+        "Cash Flow Forecast",
+        "Runway Calculator",
+        "Burn Rate Monitor",
+        "Unit Economics",
+        "Pricing Strategy",
+        "Break-Even Analysis",
+        "Budget Planning",
+        "Expense Analysis",
+        "Profitability Analysis",
+        "Pricing Margin"
+      ],
+      "open_tasks": []
+    },
+    {
+      "name": "Mira",
+      "place": "scout_tower",
+      "activity": "Resting",
+      "status": "sleeping",
+      "last_active": null,
+      "role": "Neko · Research Scout",
+      "projects": [],
+      "skills": [
+        "Trend Spotting",
+        "Product Idea Generation",
+        "Demand Validation",
+        "Competitor Research",
+        "Market Sizing",
+        "Keyword Research",
+        "Pricing Landscape",
+        "Source Triage"
+      ],
+      "open_tasks": []
+    },
+    {
+      "name": "Seraphine",
+      "place": "scriptorium",
+      "activity": "Resting",
+      "status": "sleeping",
+      "last_active": null,
+      "role": "High Elf · Writer",
+      "projects": [],
+      "skills": [
+        "Product Descriptions",
+        "SEO Titles & Tags",
+        "Social Media Posts & Captions",
+        "Sales Copy",
+        "Email Copy",
+        "Listing Polish"
+      ],
+      "open_tasks": []
+    },
+    {
+      "name": "Chad",
+      "place": "trading_office",
+      "activity": "Resting",
+      "status": "sleeping",
+      "last_active": null,
+      "role": "High Elf · Stocks",
+      "projects": [],
+      "skills": [
+        "Readiness Check",
+        "Low-Cost ETF Research",
+        "Ticker Briefs",
+        "Risk Check",
+        "Account & Fee Comparison",
+        "Scam & Hype Filter",
+        "Market News Watch"
+      ],
+      "open_tasks": []
+    },
+    {
+      "name": "Neva",
+      "place": "land_office",
+      "activity": "Resting",
+      "status": "sleeping",
+      "last_active": null,
+      "role": "High Elf · Real Estate",
+      "projects": [],
+      "skills": [
+        "Local Market Research",
+        "Tax Lien & Tax Deed Research",
+        "Undervalued Land Scouting",
+        "Deal Analysis",
+        "Flip Math",
+        "Comps Pull",
+        "Red Flag Check"
+      ],
+      "open_tasks": []
+    },
+    {
+      "name": "Jack",
+      "place": "workshop",
+      "activity": "Resting",
+      "status": "sleeping",
+      "last_active": null,
+      "role": "Dwarf · Construction",
+      "projects": [],
+      "skills": [
+        "Cost Estimates",
+        "Material Sourcing",
+        "Repair Scope for Flips",
+        "Project Planning",
+        "DIY vs. Pro Call",
+        "Permit Check",
+        "House Repairs",
+        "Blueprint Reading"
+      ],
+      "open_tasks": []
+    },
+    {
+      "name": "Prism",
+      "place": "media_studio",
+      "activity": "Resting",
+      "status": "sleeping",
+      "last_active": null,
+      "role": "Crystal sprite · Content",
+      "projects": [],
+      "skills": [],
+      "open_tasks": []
+    },
+    {
+      "name": "Luna",
+      "place": "media_studio",
+      "activity": "Resting",
+      "status": "sleeping",
+      "last_active": null,
+      "role": "Fox-girl · Social Lead",
+      "projects": [],
+      "skills": [],
+      "open_tasks": []
+    },
+    {
+      "name": "Delta",
+      "place": "guard_post",
+      "activity": "Resting",
+      "status": "sleeping",
+      "last_active": "2026-10-02T12:09:49-05:00",
+      "role": "Wolf beastkin · Security",
+      "projects": [],
+      "skills": [],
+      "open_tasks": []
+    }
+  ]
+}
