@@ -1,56 +1,344 @@
 {
-  "updated": "2026-10-05 18:29 CDT",
-  "updated_iso": "2026-10-05T18:29:09-05:00",
+  "updated": "2026-10-05 18:49 CDT",
+  "updated_iso": "2026-10-05T18:49:26-05:00",
+  "server_time": "2026-10-05T18:49:26-05:00",
+  "is_night": false,
+  "poll_seconds": 120,
+  "goal": {
+    "monthly_target": 6000,
+    "monthly_income": null,
+    "note": "Nyx updates with real numbers only"
+  },
+  "tasks": [],
+  "handoffs": [],
   "agents": [
     {
       "name": "Max",
       "place": "command_hall",
-      "activity": "Settling into the village"
+      "activity": "Settling into the village",
+      "status": "working",
+      "last_active": "2026-10-05T18:07:13-05:00",
+      "role": "Elf · Orchestrator",
+      "projects": [
+        {
+          "name": "AGENTS.md",
+          "path": "AGENTS.md",
+          "date": "2026-10-05",
+          "summary": "AGENTS.md - Max (Grok Bot copy) (Adapted 2026-10-05 from Dragon's AGENTS.md. Dragon master: D:\\Foxx AI\\Openclaw\\workspace\\Agents\\Max)"
+        },
+        {
+          "name": "SKILLS.md",
+          "path": "SKILLS.md",
+          "date": "2026-10-05",
+          "summary": "SKILLS.md – Maxine (Max, Orchestrator) Max's orchestration toolkit: route work to the right agent, track status, and keep Blue's load light."
+        },
+        {
+          "name": "SKILLS_DRAFT.md",
+          "path": "SKILLS_DRAFT.md",
+          "date": "2026-10-05",
+          "summary": "SKILLS.md – Maxine (Max, Orchestrator) Max's orchestration toolkit: route work to the right agent, track status, and keep Blue's load light."
+        },
+        {
+          "name": "HEARTBEAT.md",
+          "path": "HEARTBEAT.md",
+          "date": "2026-10-05",
+          "summary": "HEARTBEAT.md – Max (Copied from Dragon 2026-10-05.)"
+        },
+        {
+          "name": "TOOLS.md",
+          "path": "TOOLS.md",
+          "date": "2026-10-05",
+          "summary": "TOOLS.md - Local Notes (Max, Grok Bot copy) Dragon's TOOLS.md was the blank template. Notes for this setup:"
+        }
+      ],
+      "skills": [
+        "Task Routing",
+        "Status Tracking",
+        "Daily Check-In",
+        "Decision Queue",
+        "Quality Check",
+        "Priority Filter",
+        "Routing Table",
+        "Nyx",
+        "Mira",
+        "Seraphine"
+      ],
+      "open_tasks": []
     },
     {
       "name": "Nyx",
       "place": "counting_house",
-      "activity": "Settling into the village"
+      "activity": "Settling into the village",
+      "status": "working",
+      "last_active": "2026-10-05T17:30:30-05:00",
+      "role": "Neko · CFO",
+      "projects": [
+        {
+          "name": "SKILLS.md",
+          "path": "SKILLS.md",
+          "date": "2026-10-05",
+          "summary": "SKILLS.md – Nyx Veil (Money Brain) Nyx's financial toolkit. Source: \"50+ AI Finance Agents\" infographic from Shadow (2026-08-10)."
+        },
+        {
+          "name": "IDENTITY.md",
+          "path": "IDENTITY.md",
+          "date": "2026-10-05",
+          "summary": "IDENTITY.md – Nyx Veil (Money Brain) Basic Info"
+        }
+      ],
+      "skills": [
+        "Cash Flow Forecast",
+        "Runway Calculator",
+        "Burn Rate Monitor",
+        "Unit Economics",
+        "Pricing Strategy",
+        "Break-Even Analysis",
+        "Budget Planning",
+        "Expense Analysis",
+        "Profitability Analysis",
+        "Pricing Margin"
+      ],
+      "open_tasks": []
     },
     {
       "name": "Mira",
       "place": "scout_tower",
-      "activity": "Settling into the village"
+      "activity": "Settling into the village",
+      "status": "working",
+      "last_active": "2026-10-05T18:07:13-05:00",
+      "role": "Neko · Research Scout",
+      "projects": [
+        {
+          "name": "IDENTITY.md",
+          "path": "IDENTITY.md",
+          "date": "2026-10-05",
+          "summary": "IDENTITY.md – Mira Frostwhisker (Scout) Basic Info"
+        },
+        {
+          "name": "SKILLS.md",
+          "path": "SKILLS.md",
+          "date": "2026-10-05",
+          "summary": "SKILLS.md – Mira Frostwhisker (Scout) Mira's research toolkit. Organized by priority toward the $6,000/month goal."
+        }
+      ],
+      "skills": [
+        "Trend Spotting",
+        "Product Idea Generation",
+        "Demand Validation",
+        "Competitor Research",
+        "Market Sizing",
+        "Keyword Research",
+        "Pricing Landscape",
+        "Source Triage"
+      ],
+      "open_tasks": []
     },
     {
       "name": "Seraphine",
       "place": "scriptorium",
-      "activity": "Settling into the village"
+      "activity": "Settling into the village",
+      "status": "working",
+      "last_active": "2026-10-05T17:42:19-05:00",
+      "role": "High Elf · Writer",
+      "projects": [
+        {
+          "name": "SKILLS.md",
+          "path": "SKILLS.md",
+          "date": "2026-10-05",
+          "summary": "SKILLS.md – Seraphine Vale (Writer) Seraphine's content toolkit. Organized by priority toward the $6,000/month goal."
+        },
+        {
+          "name": "IDENTITY.md",
+          "path": "IDENTITY.md",
+          "date": "2026-10-05",
+          "summary": "IDENTITY.md – Seraphine Vale (Writer) Basic Info"
+        }
+      ],
+      "skills": [
+        "Content that turns products into income.",
+        "Product Descriptions",
+        "SEO Titles & Tags",
+        "Social Media Posts & Captions",
+        "Sales Copy",
+        "Email Copy",
+        "Listing Polish"
+      ],
+      "open_tasks": []
     },
     {
       "name": "Chad",
       "place": "trading_office",
-      "activity": "Settling into the village"
+      "activity": "Settling into the village",
+      "status": "working",
+      "last_active": "2026-10-05T17:59:22-05:00",
+      "role": "High Elf · Stocks",
+      "projects": [
+        {
+          "name": "SKILLS.md",
+          "path": "SKILLS.md",
+          "date": "2026-10-05",
+          "summary": "SKILLS.md – Chad Sterling (Broker) Chad's markets research toolkit: stocks, ETFs, and options — research and recommend only."
+        },
+        {
+          "name": "SKILLS_DRAFT.md",
+          "path": "SKILLS_DRAFT.md",
+          "date": "2026-10-05",
+          "summary": "SKILLS.md – Chad Sterling (Broker) Chad's markets research toolkit: stocks, ETFs, and options — research and recommend only."
+        },
+        {
+          "name": "IDENTITY.md",
+          "path": "IDENTITY.md",
+          "date": "2026-10-05",
+          "summary": "IDENTITY.md – Chad Sterling Basic Info"
+        }
+      ],
+      "skills": [
+        "Readiness Check",
+        "Low-Cost ETF Research",
+        "Ticker Briefs",
+        "Risk Check",
+        "Account & Fee Comparison",
+        "Scam & Hype Filter",
+        "Market News Watch"
+      ],
+      "open_tasks": []
     },
     {
       "name": "Neva",
       "place": "land_office",
-      "activity": "Settling into the village"
+      "activity": "Settling into the village",
+      "status": "working",
+      "last_active": "2026-10-05T18:00:04-05:00",
+      "role": "High Elf · Real Estate",
+      "projects": [
+        {
+          "name": "SKILLS.md",
+          "path": "SKILLS.md",
+          "date": "2026-10-05",
+          "summary": "SKILLS.md – Neva Sterling (Property Scout) Neva's real estate toolkit: flips, tax liens, undervalued land, and deal analysis — research a…"
+        },
+        {
+          "name": "SKILLS_DRAFT.md",
+          "path": "SKILLS_DRAFT.md",
+          "date": "2026-10-05",
+          "summary": "SKILLS.md – Neva Sterling (Property Scout) Neva's real estate toolkit: flips, tax liens, undervalued land, and deal analysis — research a…"
+        },
+        {
+          "name": "IDENTITY.md",
+          "path": "IDENTITY.md",
+          "date": "2026-10-05",
+          "summary": "IDENTITY.md – Neva Sterling Basic Info"
+        }
+      ],
+      "skills": [
+        "Local Market Research",
+        "Tax Lien & Tax Deed Research",
+        "Undervalued Land Scouting",
+        "Deal Analysis",
+        "Flip Math",
+        "Comps Pull",
+        "Red Flag Check"
+      ],
+      "open_tasks": []
     },
     {
       "name": "Jack",
       "place": "workshop",
-      "activity": "Settling into the village"
+      "activity": "Settling into the village",
+      "status": "working",
+      "last_active": "2026-10-05T18:01:18-05:00",
+      "role": "Dwarf · Construction",
+      "projects": [
+        {
+          "name": "SKILLS.md",
+          "path": "SKILLS.md",
+          "date": "2026-10-05",
+          "summary": "SKILLS.md – Jack Ironvein (Master Builder) Jack's construction toolkit: planning, blueprints, materials, cost estimates, builds and renov…"
+        },
+        {
+          "name": "SKILLS_DRAFT.md",
+          "path": "SKILLS_DRAFT.md",
+          "date": "2026-10-05",
+          "summary": "SKILLS.md – Jack Ironvein (Master Builder) Jack's construction toolkit: planning, blueprints, materials, cost estimates, builds and renov…"
+        },
+        {
+          "name": "IDENTITY.md",
+          "path": "IDENTITY.md",
+          "date": "2026-10-05",
+          "summary": "IDENTITY.md – Jack Ironvein Basic Info"
+        }
+      ],
+      "skills": [
+        "Cost Estimates",
+        "Material Sourcing",
+        "Repair Scope for Flips",
+        "Project Planning",
+        "DIY vs. Pro Call",
+        "Permit Check",
+        "House Repairs",
+        "Blueprint Reading"
+      ],
+      "open_tasks": []
     },
     {
       "name": "Prism",
       "place": "media_studio",
-      "activity": "Prepping content assets"
+      "activity": "Prepping content assets",
+      "status": "working",
+      "last_active": "2026-10-05T18:07:40-05:00",
+      "role": "Crystal sprite · Content",
+      "projects": [
+        {
+          "name": "PROFILE_UPDATED.txt",
+          "path": "PROFILE_UPDATED.txt",
+          "date": "2026-10-05",
+          "summary": "SUPPORTS LUNA (Blue 2026-10-05): Batch drafts; repurposing one idea into many channel formats; faceless content ideas; scheduling prep; s…"
+        },
+        {
+          "name": "README.md",
+          "path": "README.md",
+          "date": "2026-10-05",
+          "summary": "Prism — Public Face / content ops (Grok Bot) *Not** family Luna. Work lane only: socials, site, faceless short video, batch drafts + Shad…"
+        }
+      ],
+      "skills": [],
+      "open_tasks": []
     },
     {
       "name": "Luna",
       "place": "media_studio",
-      "activity": "Planning social posts"
+      "activity": "Sleeping",
+      "status": "sleeping",
+      "last_active": "2026-10-03T12:32:19-05:00",
+      "role": "Fox-girl · Social Lead",
+      "projects": [
+        {
+          "name": "IDENTITY.md",
+          "path": "IDENTITY.md",
+          "date": "2026-10-03",
+          "summary": "IDENTITY.md – Luna Foxx Basic Info"
+        }
+      ],
+      "skills": [],
+      "open_tasks": []
     },
     {
       "name": "Delta",
       "place": "guard_post",
-      "activity": "Patrolling the grounds"
+      "activity": "Sleeping",
+      "status": "sleeping",
+      "last_active": "2026-10-03T12:31:36-05:00",
+      "role": "Wolf beastkin · Security",
+      "projects": [
+        {
+          "name": "IDENTITY.md",
+          "path": "IDENTITY.md",
+          "date": "2026-10-03",
+          "summary": "IDENTITY.md – Delta Basic Info"
+        }
+      ],
+      "skills": [],
+      "open_tasks": []
     }
   ]
 }
