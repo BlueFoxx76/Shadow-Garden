@@ -1,0 +1,56 @@
+{
+  "updated": "2026-10-05 18:29 CDT",
+  "updated_iso": "2026-10-05T18:29:09-05:00",
+  "agents": [
+    {
+      "name": "Max",
+      "place": "command_hall",
+      "activity": "Settling into the village"
+    },
+    {
+      "name": "Nyx",
+      "place": "counting_house",
+      "activity": "Settling into the village"
+    },
+    {
+      "name": "Mira",
+      "place": "scout_tower",
+      "activity": "Settling into the village"
+    },
+    {
+      "name": "Seraphine",
+      "place": "scriptorium",
+      "activity": "Settling into the village"
+    },
+    {
+      "name": "Chad",
+      "place": "trading_office",
+      "activity": "Settling into the village"
+    },
+    {
+      "name": "Neva",
+      "place": "land_office",
+      "activity": "Settling into the village"
+    },
+    {
+      "name": "Jack",
+      "place": "workshop",
+      "activity": "Settling into the village"
+    },
+    {
+      "name": "Prism",
+      "place": "media_studio",
+      "activity": "Prepping content assets"
+    },
+    {
+      "name": "Luna",
+      "place": "media_studio",
+      "activity": "Planning social posts"
+    },
+    {
+      "name": "Delta",
+      "place": "guard_post",
+      "activity": "Patrolling the grounds"
+    }
+  ]
+}
