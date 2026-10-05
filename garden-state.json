@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-05 18:51 CDT",
-  "updated_iso": "2026-10-05T18:51:51-05:00",
-  "server_time": "2026-10-05T18:51:51-05:00",
+  "updated": "2026-10-05 18:54 CDT",
+  "updated_iso": "2026-10-05T18:54:12-05:00",
+  "server_time": "2026-10-05T18:54:12-05:00",
   "is_night": false,
   "poll_seconds": 120,
   "goal": {
@@ -17,7 +17,7 @@
       "place": "command_hall",
       "activity": "Settling into the village",
       "status": "working",
-      "last_active": "2026-10-05T18:07:13-05:00",
+      "last_active": "2026-10-05T18:52:12-05:00",
       "role": "Elf · Orchestrator",
       "projects": [
         {
@@ -57,11 +57,7 @@
         "Daily Check-In",
         "Decision Queue",
         "Quality Check",
-        "Priority Filter",
-        "Routing Table",
-        "Nyx",
-        "Mira",
-        "Seraphine"
+        "Priority Filter"
       ],
       "open_tasks": []
     },
@@ -94,9 +90,7 @@
         "Pricing Strategy",
         "Break-Even Analysis",
         "Budget Planning",
-        "Expense Analysis",
-        "Profitability Analysis",
-        "Pricing Margin"
+        "Expense Analysis"
       ],
       "open_tasks": []
     },
@@ -155,7 +149,6 @@
         }
       ],
       "skills": [
-        "Content that turns products into income.",
         "Product Descriptions",
         "SEO Titles & Tags",
         "Social Media Posts & Captions",
