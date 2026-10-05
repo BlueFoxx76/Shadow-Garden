@@ -433,7 +433,12 @@ function updateClock(){
 }
 
 async function poll(){
-  const urls=[STATUS_URL+"?_="+Date.now(), "garden-state.json?_="+Date.now(), "../garden-state.json?_="+Date.now()];
+  const urls = [
+    (HOSTED ? "https://bluefoxx76.github.io/Shadow-Garden/garden/garden-state.json" : "garden-state.json") + "?_=" + Date.now(),
+    STATUS_URL + "?_=" + Date.now(),
+    "garden-state.json?_=" + Date.now(),
+    "../garden-state.json?_=" + Date.now()
+  ];
   let loaded=false;
   for(const url of urls){
     try{
