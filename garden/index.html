@@ -842,7 +842,7 @@ function openDetail(key){
   document.getElementById("detail-status").textContent=(ag.status||"idle").toUpperCase()+(ag.last_active?" · last active "+ag.last_active:"");
   document.getElementById("detail-activity").textContent=ag.activity||"—";
   const proj=ag.projects||[];
-  document.getElementById("detail-projects").innerHTML= proj.length? '<table><tr><th>File</th><th>Date</th><th>Summary</th></tr>'+proj.map(p=>"<tr><td>"+esc(p.name)+"</td><td>"+esc(p.date)+"</td><td>"+esc(p.summary)+"</td></tr>").join("")+"</table>" : "<p>No recent work files logged.</p>";
+  document.getElementById("detail-projects").innerHTML= proj.length? '<table><tr><th>File</th><th>Date</th><th>Summary</th></tr>'+proj.map(p=>"<tr><td>"+esc(p.name)+"</td><td>"+esc(p.date)+"</td><td>"+esc(p.summary)+"</td></tr>").join("")+"</table>" : "<p>No projects yet.</p>";
   const tasks=ag.open_tasks||[];
   document.getElementById("detail-tasks").innerHTML= tasks.length? '<ul>'+tasks.map(t=>"<li>"+esc(t.task)+" <em>("+esc(t.status)+")</em>"+(t.handoff_to?" → "+esc(t.handoff_to):"")+"</li>").join("")+"</ul>" : "<p>No open tasks.</p>";
   const skills=ag.skills||[];
