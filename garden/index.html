@@ -256,7 +256,7 @@ function clone(o){return JSON.parse(JSON.stringify(o));}
 function splitLabel(lab){return String(lab||"").replace(/\\n/g,"\n").split(/\n/);}
 function mapW(){return layout.mapW||1100;}
 function mapH(){return layout.mapH||720;}
-function getBuildings(){return layout.buildings;}
+function getBuildings(){return (layout&&layout.buildings)||DEFAULT_LAYOUT.buildings;}
 function persist(){try{localStorage.setItem(LS_KEY,JSON.stringify(layout));}catch(e){}}
 function snap(v){return snapOn?Math.round(v/GRID)*GRID:Math.round(v);}
 
@@ -306,7 +306,8 @@ function buildingSlots(id,n){
 const agents={};
 AGENT_ORDER.forEach(key=>{
   const m=AGENT_META[key];
-  const c=buildCenter(m.home);
+  const hb=DEFAULT_LAYOUT.buildings[m.home];
+  const c={x: hb.x+hb.w/2, y: hb.y+hb.h*0.82};
   agents[key]={key,display:m.display,color:m.color,place:m.home,activity:"—",status:"idle",role:m.role,
     projects:[],skills:[],open_tasks:[],last_active:null,
     x:c.x,y:c.y,tx:c.x,ty:c.y,homeX:c.x,homeY:c.y,frame:0,slotIndex:0,slotCount:1,
