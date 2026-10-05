@@ -1,0 +1,21 @@
+{
+  "updated": "2026-10-05 16:06 CDT",
+  "updated_iso": "2026-10-05T16:06:21-05:00",
+  "agents": [
+    {
+      "name": "Luna",
+      "room": "kitchen",
+      "activity": "Cooking in the kitchen"
+    },
+    {
+      "name": "Delta",
+      "room": "shop",
+      "activity": "Training in the shop"
+    },
+    {
+      "name": "Nozomi",
+      "room": "bay",
+      "activity": "Waiting in the shop sunlight"
+    }
+  ]
+}
