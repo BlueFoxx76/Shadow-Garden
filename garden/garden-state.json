@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-06 01:12 CDT",
-  "updated_iso": "2026-10-06T01:12:26-05:00",
-  "server_time": "2026-10-06T01:12:26-05:00",
+  "updated": "2026-10-06 03:10 CDT",
+  "updated_iso": "2026-10-06T03:10:48-05:00",
+  "server_time": "2026-10-06T03:10:48-05:00",
   "is_night": true,
   "poll_seconds": 120,
   "goal": {
@@ -17,7 +17,7 @@
       "place": "command_hall",
       "activity": "Resting",
       "status": "sleeping",
-      "last_active": "2026-10-05T19:12:22-05:00",
+      "last_active": "2026-10-06T02:48:04-05:00",
       "role": "Elf · Orchestrator",
       "projects": [],
       "skills": [
@@ -175,7 +175,7 @@
       "place": "guard_post",
       "activity": "Resting",
       "status": "sleeping",
-      "last_active": "2026-10-02T12:09:49-05:00",
+      "last_active": "2026-10-06T02:47:57-05:00",
       "role": "Wolf beastkin · Security",
       "projects": [],
       "skills": [],
