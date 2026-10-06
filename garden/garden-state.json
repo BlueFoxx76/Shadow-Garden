@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-06 03:10 CDT",
-  "updated_iso": "2026-10-06T03:10:48-05:00",
-  "server_time": "2026-10-06T03:10:48-05:00",
+  "updated": "2026-10-06 05:10 CDT",
+  "updated_iso": "2026-10-06T05:10:32-05:00",
+  "server_time": "2026-10-06T05:10:32-05:00",
   "is_night": true,
   "poll_seconds": 120,
   "goal": {
@@ -57,9 +57,16 @@
       "place": "scout_tower",
       "activity": "Resting",
       "status": "sleeping",
-      "last_active": null,
+      "last_active": "2026-10-06T04:34:05-05:00",
       "role": "Neko · Research Scout",
-      "projects": [],
+      "projects": [
+        {
+          "name": "2026-10-06-scouting.md",
+          "path": "reports/2026-10-06-scouting.md",
+          "date": "2026-10-06",
+          "summary": "Luna Foxx scouting — Tue Oct 6, 2026 (due 3:30 PM CT) Research-only. Sell existing assets; no paid spend without owner OK."
+        }
+      ],
       "skills": [
         "Trend Spotting",
         "Product Idea Generation",
