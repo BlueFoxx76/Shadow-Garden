@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-06 05:10 CDT",
-  "updated_iso": "2026-10-06T05:10:32-05:00",
-  "server_time": "2026-10-06T05:10:32-05:00",
-  "is_night": true,
+  "updated": "2026-10-06 07:07 CDT",
+  "updated_iso": "2026-10-06T07:07:47-05:00",
+  "server_time": "2026-10-06T07:07:47-05:00",
+  "is_night": false,
   "poll_seconds": 120,
   "goal": {
     "monthly_target": 6000,
@@ -15,8 +15,8 @@
     {
       "name": "Max",
       "place": "command_hall",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Reviewing product options",
+      "status": "working",
       "last_active": "2026-10-06T02:48:04-05:00",
       "role": "Elf · Orchestrator",
       "projects": [],
@@ -55,8 +55,8 @@
     {
       "name": "Mira",
       "place": "scout_tower",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Scanning research leads",
+      "status": "working",
       "last_active": "2026-10-06T04:34:05-05:00",
       "role": "Neko · Research Scout",
       "projects": [
@@ -180,8 +180,8 @@
     {
       "name": "Delta",
       "place": "guard_post",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Patrolling the grounds",
+      "status": "working",
       "last_active": "2026-10-06T02:47:57-05:00",
       "role": "Wolf beastkin · Security",
       "projects": [],

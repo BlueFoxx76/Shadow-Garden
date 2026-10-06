@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-06 01:12 CDT",
-  "updated_iso": "2026-10-06T01:12:26-05:00",
-  "server_time": "2026-10-06T01:12:26-05:00",
-  "is_night": true,
+  "updated": "2026-10-06 07:07 CDT",
+  "updated_iso": "2026-10-06T07:07:47-05:00",
+  "server_time": "2026-10-06T07:07:47-05:00",
+  "is_night": false,
   "poll_seconds": 120,
   "goal": {
     "monthly_target": 6000,
@@ -15,9 +15,9 @@
     {
       "name": "Max",
       "place": "command_hall",
-      "activity": "Resting",
-      "status": "sleeping",
-      "last_active": "2026-10-05T19:12:22-05:00",
+      "activity": "Reviewing product options",
+      "status": "working",
+      "last_active": "2026-10-06T02:48:04-05:00",
       "role": "Elf · Orchestrator",
       "projects": [],
       "skills": [
@@ -55,11 +55,18 @@
     {
       "name": "Mira",
       "place": "scout_tower",
-      "activity": "Resting",
-      "status": "sleeping",
-      "last_active": null,
+      "activity": "Scanning research leads",
+      "status": "working",
+      "last_active": "2026-10-06T04:34:05-05:00",
       "role": "Neko · Research Scout",
-      "projects": [],
+      "projects": [
+        {
+          "name": "2026-10-06-scouting.md",
+          "path": "reports/2026-10-06-scouting.md",
+          "date": "2026-10-06",
+          "summary": "Luna Foxx scouting — Tue Oct 6, 2026 (due 3:30 PM CT) Research-only. Sell existing assets; no paid spend without owner OK."
+        }
+      ],
       "skills": [
         "Trend Spotting",
         "Product Idea Generation",
@@ -173,9 +180,9 @@
     {
       "name": "Delta",
       "place": "guard_post",
-      "activity": "Resting",
-      "status": "sleeping",
-      "last_active": "2026-10-02T12:09:49-05:00",
+      "activity": "Patrolling the grounds",
+      "status": "working",
+      "last_active": "2026-10-06T02:47:57-05:00",
       "role": "Wolf beastkin · Security",
       "projects": [],
       "skills": [],
