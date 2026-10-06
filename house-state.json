@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-05 19:10 CDT",
-  "updated_iso": "2026-10-05T19:10:35-05:00",
+  "updated": "2026-10-06 01:12 CDT",
+  "updated_iso": "2026-10-06T01:12:26-05:00",
   "agents": [
     {
       "name": "Luna",
-      "room": "yard",
-      "activity": "Sitting by the fire pit"
+      "room": "den",
+      "activity": "In the den"
     },
     {
       "name": "Delta",
-      "room": "yard",
-      "activity": "Sitting by the fire pit"
+      "room": "shop",
+      "activity": "Training in the shop"
     },
     {
       "name": "Nozomi",
-      "room": "yard",
-      "activity": "Sitting by the fire pit"
+      "room": "bay",
+      "activity": "Waiting in the shop sunlight"
     }
   ]
 }

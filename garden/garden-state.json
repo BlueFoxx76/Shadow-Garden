@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-05 19:10 CDT",
-  "updated_iso": "2026-10-05T19:10:35-05:00",
-  "server_time": "2026-10-05T19:10:35-05:00",
-  "is_night": false,
+  "updated": "2026-10-06 01:12 CDT",
+  "updated_iso": "2026-10-06T01:12:26-05:00",
+  "server_time": "2026-10-06T01:12:26-05:00",
+  "is_night": true,
   "poll_seconds": 120,
   "goal": {
     "monthly_target": 6000,
@@ -15,9 +15,9 @@
     {
       "name": "Max",
       "place": "command_hall",
-      "activity": "Reviewing product options",
-      "status": "working",
-      "last_active": "2026-10-05T19:09:23-05:00",
+      "activity": "Resting",
+      "status": "sleeping",
+      "last_active": "2026-10-05T19:12:22-05:00",
       "role": "Elf · Orchestrator",
       "projects": [],
       "skills": [
