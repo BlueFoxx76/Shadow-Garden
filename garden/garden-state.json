@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-07 03:11 CDT",
-  "updated_iso": "2026-10-07T03:11:48-05:00",
-  "server_time": "2026-10-07T03:11:48-05:00",
+  "updated": "2026-10-07 05:11 CDT",
+  "updated_iso": "2026-10-07T05:11:37-05:00",
+  "server_time": "2026-10-07T05:11:37-05:00",
   "is_night": true,
   "poll_seconds": 120,
   "goal": {
@@ -35,9 +35,16 @@
       "place": "counting_house",
       "activity": "Resting",
       "status": "sleeping",
-      "last_active": null,
+      "last_active": "2026-10-07T04:26:25-05:00",
       "role": "Neko · CFO",
-      "projects": [],
+      "projects": [
+        {
+          "name": "trusts-types-and-opening-steps.md",
+          "path": "work/reports/trusts-types-and-opening-steps.md",
+          "date": "2026-10-07",
+          "summary": "Nyx / Veil Capital: Trusts Brief Kinds of trusts and how each one gets set up (a primer for Blue Foxx)"
+        }
+      ],
       "skills": [
         "Cash Flow Forecast",
         "Runway Calculator",
@@ -102,9 +109,16 @@
       "place": "trading_office",
       "activity": "Resting",
       "status": "sleeping",
-      "last_active": null,
+      "last_active": "2026-10-07T04:17:03-05:00",
       "role": "High Elf · Stocks",
-      "projects": [],
+      "projects": [
+        {
+          "name": "beginner-investing-research-2026-10-07.md",
+          "path": "work/beginner-investing-research-2026-10-07.md",
+          "date": "2026-10-07",
+          "summary": "Beginner Investing Research Brief Prepared for Foxx · Research only · Not financial advice · Data as of ~Oct 6–7, 2026*"
+        }
+      ],
       "skills": [
         "Readiness Check",
         "Low-Cost ETF Research",
