@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-07 01:15 CDT",
-  "updated_iso": "2026-10-07T01:15:40-05:00",
-  "server_time": "2026-10-07T01:15:40-05:00",
-  "is_night": true,
+  "updated": "2026-10-07 07:19 CDT",
+  "updated_iso": "2026-10-07T07:19:20-05:00",
+  "server_time": "2026-10-07T07:19:20-05:00",
+  "is_night": false,
   "poll_seconds": 120,
   "goal": {
     "monthly_target": 6000,
@@ -15,8 +15,8 @@
     {
       "name": "Max",
       "place": "command_hall",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Waiting for a task",
+      "status": "idle",
       "last_active": "2026-10-06T02:48:04-05:00",
       "role": "Elf · Orchestrator",
       "projects": [],
@@ -33,11 +33,18 @@
     {
       "name": "Nyx",
       "place": "counting_house",
-      "activity": "Resting",
-      "status": "sleeping",
-      "last_active": null,
+      "activity": "Checking numbers",
+      "status": "working",
+      "last_active": "2026-10-07T04:26:25-05:00",
       "role": "Neko · CFO",
-      "projects": [],
+      "projects": [
+        {
+          "name": "trusts-types-and-opening-steps.md",
+          "path": "work/reports/trusts-types-and-opening-steps.md",
+          "date": "2026-10-07",
+          "summary": "Nyx / Veil Capital: Trusts Brief Kinds of trusts and how each one gets set up (a primer for Blue Foxx)"
+        }
+      ],
       "skills": [
         "Cash Flow Forecast",
         "Runway Calculator",
@@ -55,8 +62,8 @@
     {
       "name": "Mira",
       "place": "scout_tower",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Waiting for a task",
+      "status": "idle",
       "last_active": "2026-10-06T04:34:05-05:00",
       "role": "Neko · Research Scout",
       "projects": [
@@ -100,11 +107,18 @@
     {
       "name": "Chad",
       "place": "trading_office",
-      "activity": "Resting",
-      "status": "sleeping",
-      "last_active": null,
+      "activity": "Watching the markets",
+      "status": "working",
+      "last_active": "2026-10-07T04:17:03-05:00",
       "role": "High Elf · Stocks",
-      "projects": [],
+      "projects": [
+        {
+          "name": "beginner-investing-research-2026-10-07.md",
+          "path": "work/beginner-investing-research-2026-10-07.md",
+          "date": "2026-10-07",
+          "summary": "Beginner Investing Research Brief Prepared for Foxx · Research only · Not financial advice · Data as of ~Oct 6–7, 2026*"
+        }
+      ],
       "skills": [
         "Readiness Check",
         "Low-Cost ETF Research",
@@ -180,8 +194,8 @@
     {
       "name": "Delta",
       "place": "guard_post",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Waiting for a task",
+      "status": "idle",
       "last_active": "2026-10-06T02:47:57-05:00",
       "role": "Wolf beastkin · Security",
       "projects": [],
