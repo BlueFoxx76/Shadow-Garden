@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-08 01:09 CDT",
-  "updated_iso": "2026-10-08T01:09:34-05:00",
-  "server_time": "2026-10-08T01:09:34-05:00",
-  "is_night": true,
+  "updated": "2026-10-08 07:13 CDT",
+  "updated_iso": "2026-10-08T07:13:16-05:00",
+  "server_time": "2026-10-08T07:13:16-05:00",
+  "is_night": false,
   "poll_seconds": 120,
   "goal": {
     "monthly_target": 6000,
@@ -15,9 +15,9 @@
     {
       "name": "Max",
       "place": "command_hall",
-      "activity": "Resting",
-      "status": "sleeping",
-      "last_active": "2026-10-06T02:48:04-05:00",
+      "activity": "Reviewing product options",
+      "status": "working",
+      "last_active": "2026-10-08T12:00:00-05:00",
       "role": "Elf · Orchestrator",
       "projects": [],
       "skills": [
@@ -33,8 +33,8 @@
     {
       "name": "Nyx",
       "place": "counting_house",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Waiting for a task",
+      "status": "idle",
       "last_active": "2026-10-07T04:26:25-05:00",
       "role": "Neko · CFO",
       "projects": [
@@ -62,11 +62,23 @@
     {
       "name": "Mira",
       "place": "scout_tower",
-      "activity": "Resting",
-      "status": "sleeping",
-      "last_active": "2026-10-06T04:34:05-05:00",
+      "activity": "Scanning research leads",
+      "status": "working",
+      "last_active": "2026-10-08T04:30:41-05:00",
       "role": "Neko · Research Scout",
       "projects": [
+        {
+          "name": "2026-10-08-trending-ideas.md",
+          "path": "reports/2026-10-08-trending-ideas.md",
+          "date": "2026-10-08",
+          "summary": "Luna Foxx scouting — Thu Oct 8, 2026 Research only. Nothing was posted, signed up for, bought, or sent. Halloween is 23 days out, so spee…"
+        },
+        {
+          "name": "2026-10-08-scouting.md",
+          "path": "reports/2026-10-08-scouting.md",
+          "date": "2026-10-08",
+          "summary": "Luna Foxx scouting — Thu Oct 8, 2026 Research only. Nothing was posted, signed up for, bought, or sent. Halloween is 23 days out, so spee…"
+        },
         {
           "name": "2026-10-06-scouting.md",
           "path": "reports/2026-10-06-scouting.md",
@@ -107,8 +119,8 @@
     {
       "name": "Chad",
       "place": "trading_office",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Waiting for a task",
+      "status": "idle",
       "last_active": "2026-10-07T04:17:03-05:00",
       "role": "High Elf · Stocks",
       "projects": [
@@ -194,8 +206,8 @@
     {
       "name": "Delta",
       "place": "guard_post",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Waiting for a task",
+      "status": "idle",
       "last_active": "2026-10-06T02:47:57-05:00",
       "role": "Wolf beastkin · Security",
       "projects": [],
