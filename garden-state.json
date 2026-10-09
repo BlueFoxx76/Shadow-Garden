@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-08 07:13 CDT",
-  "updated_iso": "2026-10-08T07:13:16-05:00",
-  "server_time": "2026-10-08T07:13:16-05:00",
-  "is_night": false,
+  "updated": "2026-10-09 01:11 CDT",
+  "updated_iso": "2026-10-09T01:11:01-05:00",
+  "server_time": "2026-10-09T01:11:01-05:00",
+  "is_night": true,
   "poll_seconds": 120,
   "goal": {
     "monthly_target": 6000,
@@ -15,8 +15,8 @@
     {
       "name": "Max",
       "place": "command_hall",
-      "activity": "Reviewing product options",
-      "status": "working",
+      "activity": "Resting",
+      "status": "sleeping",
       "last_active": "2026-10-08T12:00:00-05:00",
       "role": "Elf · Orchestrator",
       "projects": [],
@@ -33,8 +33,8 @@
     {
       "name": "Nyx",
       "place": "counting_house",
-      "activity": "Waiting for a task",
-      "status": "idle",
+      "activity": "Resting",
+      "status": "sleeping",
       "last_active": "2026-10-07T04:26:25-05:00",
       "role": "Neko · CFO",
       "projects": [
@@ -62,8 +62,8 @@
     {
       "name": "Mira",
       "place": "scout_tower",
-      "activity": "Scanning research leads",
-      "status": "working",
+      "activity": "Resting",
+      "status": "sleeping",
       "last_active": "2026-10-08T04:30:41-05:00",
       "role": "Neko · Research Scout",
       "projects": [
@@ -119,8 +119,8 @@
     {
       "name": "Chad",
       "place": "trading_office",
-      "activity": "Waiting for a task",
-      "status": "idle",
+      "activity": "Resting",
+      "status": "sleeping",
       "last_active": "2026-10-07T04:17:03-05:00",
       "role": "High Elf · Stocks",
       "projects": [
@@ -197,17 +197,24 @@
       "place": "media_studio",
       "activity": "Resting",
       "status": "sleeping",
-      "last_active": null,
+      "last_active": "2026-10-08T20:39:26-05:00",
       "role": "Fox-girl · Social Lead",
-      "projects": [],
+      "projects": [
+        {
+          "name": "988-sad-page.md",
+          "path": "work/988-sad-page.md",
+          "date": "2026-10-08",
+          "summary": "#988 SAD page — research + draft Prepared 2026-10-09 for Blue / Luna Foxx site. Part A = research notes (every claim has a URL). Part B =…"
+        }
+      ],
       "skills": [],
       "open_tasks": []
     },
     {
       "name": "Delta",
       "place": "guard_post",
-      "activity": "Waiting for a task",
-      "status": "idle",
+      "activity": "Resting",
+      "status": "sleeping",
       "last_active": "2026-10-06T02:47:57-05:00",
       "role": "Wolf beastkin · Security",
       "projects": [],
