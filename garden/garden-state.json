@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-10 05:10 CDT",
-  "updated_iso": "2026-10-10T05:10:53-05:00",
-  "server_time": "2026-10-10T05:10:53-05:00",
-  "is_night": true,
+  "updated": "2026-10-10 07:15 CDT",
+  "updated_iso": "2026-10-10T07:15:08-05:00",
+  "server_time": "2026-10-10T07:15:08-05:00",
+  "is_night": false,
   "poll_seconds": 120,
   "goal": {
     "monthly_target": 6000,
@@ -15,8 +15,8 @@
     {
       "name": "Max",
       "place": "command_hall",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Waiting for a task",
+      "status": "idle",
       "last_active": "2026-10-08T12:00:00-05:00",
       "role": "Elf · Orchestrator",
       "projects": [],
@@ -62,8 +62,8 @@
     {
       "name": "Mira",
       "place": "scout_tower",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Waiting for a task",
+      "status": "idle",
       "last_active": "2026-10-08T04:30:41-05:00",
       "role": "Neko · Research Scout",
       "projects": [
@@ -195,8 +195,8 @@
     {
       "name": "Luna",
       "place": "media_studio",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Waiting for a task",
+      "status": "idle",
       "last_active": "2026-10-08T20:39:26-05:00",
       "role": "Fox-girl · Social Lead",
       "projects": [
