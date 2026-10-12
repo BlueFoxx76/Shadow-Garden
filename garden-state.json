@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-12 07:16 CDT",
-  "updated_iso": "2026-10-12T07:16:10-05:00",
-  "server_time": "2026-10-12T07:16:10-05:00",
+  "updated": "2026-10-12 17:29 CDT",
+  "updated_iso": "2026-10-12T17:29:12-05:00",
+  "server_time": "2026-10-12T17:29:12-05:00",
   "is_night": false,
   "poll_seconds": 120,
   "goal": {
@@ -15,9 +15,9 @@
     {
       "name": "Max",
       "place": "command_hall",
-      "activity": "Waiting for a task",
-      "status": "idle",
-      "last_active": "2026-10-10T07:34:51-05:00",
+      "activity": "Reviewing product options",
+      "status": "working",
+      "last_active": "2026-10-12T16:59:44-05:00",
       "role": "Elf · Orchestrator",
       "projects": [],
       "skills": [
@@ -33,15 +33,15 @@
     {
       "name": "Nyx",
       "place": "counting_house",
-      "activity": "Waiting for a task",
-      "status": "idle",
-      "last_active": "2026-10-10T07:34:51-05:00",
+      "activity": "Checking numbers",
+      "status": "working",
+      "last_active": "2026-10-12T16:59:45-05:00",
       "role": "Neko · CFO",
       "projects": [
         {
           "name": "trusts-types-and-opening-steps.md",
           "path": "work/reports/trusts-types-and-opening-steps.md",
-          "date": "2026-10-10",
+          "date": "2026-10-12",
           "summary": "Nyx / Veil Capital: Trusts Brief Kinds of trusts and how each one gets set up (a primer for Blue Foxx)"
         }
       ],
@@ -64,7 +64,7 @@
       "place": "scout_tower",
       "activity": "Scanning research leads",
       "status": "working",
-      "last_active": "2026-10-12T12:00:00-05:00",
+      "last_active": "2026-10-12T16:59:45-05:00",
       "role": "Neko · Research Scout",
       "projects": [
         {
@@ -88,13 +88,13 @@
         {
           "name": "2026-10-08-trending-ideas.md",
           "path": "reports/2026-10-08-trending-ideas.md",
-          "date": "2026-10-10",
+          "date": "2026-10-12",
           "summary": "Luna Foxx scouting — Thu Oct 8, 2026 Research only. Nothing was posted, signed up for, bought, or sent. Halloween is 23 days out, so spee…"
         },
         {
           "name": "2026-10-08-scouting.md",
           "path": "reports/2026-10-08-scouting.md",
-          "date": "2026-10-10",
+          "date": "2026-10-12",
           "summary": "Luna Foxx scouting — Thu Oct 8, 2026 Research only. Nothing was posted, signed up for, bought, or sent. Halloween is 23 days out, so spee…"
         }
       ],
@@ -131,15 +131,15 @@
     {
       "name": "Chad",
       "place": "trading_office",
-      "activity": "Waiting for a task",
-      "status": "idle",
-      "last_active": "2026-10-10T07:34:51-05:00",
+      "activity": "Watching the markets",
+      "status": "working",
+      "last_active": "2026-10-12T16:59:45-05:00",
       "role": "High Elf · Stocks",
       "projects": [
         {
           "name": "beginner-investing-research-2026-10-07.md",
           "path": "work/beginner-investing-research-2026-10-07.md",
-          "date": "2026-10-10",
+          "date": "2026-10-12",
           "summary": "Beginner Investing Research Brief Prepared for Foxx · Research only · Not financial advice · Data as of ~Oct 6–7, 2026*"
         }
       ],
@@ -207,15 +207,15 @@
     {
       "name": "Luna",
       "place": "media_studio",
-      "activity": "Waiting for a task",
-      "status": "idle",
-      "last_active": "2026-10-11T05:19:26-05:00",
+      "activity": "Planning social posts",
+      "status": "working",
+      "last_active": "2026-10-12T16:59:45-05:00",
       "role": "Fox-girl · Social Lead",
       "projects": [
         {
           "name": "988-sad-page.md",
           "path": "work/988-sad-page.md",
-          "date": "2026-10-11",
+          "date": "2026-10-12",
           "summary": "#988 SAD page — research + draft Prepared 2026-10-09 for Blue / Luna Foxx site. Part A = research notes (every claim has a URL). Part B =…"
         }
       ],
@@ -225,9 +225,9 @@
     {
       "name": "Delta",
       "place": "guard_post",
-      "activity": "Waiting for a task",
-      "status": "idle",
-      "last_active": "2026-10-11T05:19:26-05:00",
+      "activity": "Patrolling the grounds",
+      "status": "working",
+      "last_active": "2026-10-12T16:59:41-05:00",
       "role": "Wolf beastkin · Security",
       "projects": [],
       "skills": [],
