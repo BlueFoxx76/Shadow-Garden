@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-14 15:12 CDT",
-  "updated_iso": "2026-10-14T15:12:23-05:00",
-  "server_time": "2026-10-14T15:12:23-05:00",
+  "updated": "2026-10-14 17:08 CDT",
+  "updated_iso": "2026-10-14T17:08:41-05:00",
+  "server_time": "2026-10-14T17:08:41-05:00",
   "is_night": false,
   "poll_seconds": 120,
   "goal": {
@@ -62,11 +62,17 @@
     {
       "name": "Mira",
       "place": "scout_tower",
-      "activity": "Waiting for a task",
-      "status": "idle",
-      "last_active": "2026-10-12T16:59:45-05:00",
+      "activity": "Scanning research leads",
+      "status": "working",
+      "last_active": "2026-10-14T15:36:08-05:00",
       "role": "Neko · Research Scout",
       "projects": [
+        {
+          "name": "2026-10-14-paid-image-packs-market.md",
+          "path": "reports/2026-10-14-paid-image-packs-market.md",
+          "date": "2026-10-14",
+          "summary": "Paid Image / Wallpaper Packs: Market Check (Oct 14, 2026) Mira Frostwhisker, research only. Nothing was signed up for, posted, bought, or…"
+        },
         {
           "name": "2026-10-12-pod-merch-ideas.md",
           "path": "reports/2026-10-12-pod-merch-ideas.md",
@@ -88,12 +94,6 @@
         {
           "name": "2026-10-08-trending-ideas.md",
           "path": "reports/2026-10-08-trending-ideas.md",
-          "date": "2026-10-12",
-          "summary": "Luna Foxx scouting — Thu Oct 8, 2026 Research only. Nothing was posted, signed up for, bought, or sent. Halloween is 23 days out, so spee…"
-        },
-        {
-          "name": "2026-10-08-scouting.md",
-          "path": "reports/2026-10-08-scouting.md",
           "date": "2026-10-12",
           "summary": "Luna Foxx scouting — Thu Oct 8, 2026 Research only. Nothing was posted, signed up for, bought, or sent. Halloween is 23 days out, so spee…"
         }
