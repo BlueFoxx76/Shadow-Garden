@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-14 07:13 CDT",
-  "updated_iso": "2026-10-14T07:13:16-05:00",
-  "server_time": "2026-10-14T07:13:16-05:00",
+  "updated": "2026-10-14 09:14 CDT",
+  "updated_iso": "2026-10-14T09:14:38-05:00",
+  "server_time": "2026-10-14T09:14:38-05:00",
   "is_night": false,
   "poll_seconds": 120,
   "goal": {
@@ -207,11 +207,23 @@
     {
       "name": "Luna",
       "place": "media_studio",
-      "activity": "Waiting for a task",
-      "status": "idle",
-      "last_active": "2026-10-12T16:59:45-05:00",
+      "activity": "Planning social posts",
+      "status": "working",
+      "last_active": "2026-10-14T07:15:41-05:00",
       "role": "Fox-girl · Social Lead",
       "projects": [
+        {
+          "name": "HALLOWEEN_DROP1_HANDOFF.md",
+          "path": "work/HALLOWEEN_DROP1_HANDOFF.md",
+          "date": "2026-10-14",
+          "summary": "Halloween Drop #1 assets (ready, not live) Fill-in sheet"
+        },
+        {
+          "name": "2026-10-11-gumroad-halloween-fill-in.md",
+          "path": "work/2026-10-11-gumroad-halloween-fill-in.md",
+          "date": "2026-10-14",
+          "summary": "Copy each value into the matching box on Gumroad's new-product form. Box names can differ a little on Gumroad's side; match by meaning. N…"
+        },
         {
           "name": "988-sad-page.md",
           "path": "work/988-sad-page.md",
