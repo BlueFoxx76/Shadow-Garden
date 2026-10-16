@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-16 07:09 CDT",
-  "updated_iso": "2026-10-16T07:09:41-05:00",
-  "server_time": "2026-10-16T07:09:41-05:00",
+  "updated": "2026-10-16 15:11 CDT",
+  "updated_iso": "2026-10-16T15:11:28-05:00",
+  "server_time": "2026-10-16T15:11:28-05:00",
   "is_night": false,
   "poll_seconds": 120,
   "goal": {
@@ -207,8 +207,8 @@
     {
       "name": "Luna",
       "place": "media_studio",
-      "activity": "Planning social posts",
-      "status": "working",
+      "activity": "Waiting for a task",
+      "status": "idle",
       "last_active": "2026-10-15T13:31:46-05:00",
       "role": "Fox-girl · Social Lead",
       "projects": [
