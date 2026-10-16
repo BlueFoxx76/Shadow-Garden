@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-15 17:11 CDT",
-  "updated_iso": "2026-10-15T17:11:08-05:00",
-  "server_time": "2026-10-15T17:11:08-05:00",
-  "is_night": false,
+  "updated": "2026-10-16 01:14 CDT",
+  "updated_iso": "2026-10-16T01:14:59-05:00",
+  "server_time": "2026-10-16T01:14:59-05:00",
+  "is_night": true,
   "poll_seconds": 120,
   "goal": {
     "monthly_target": 6000,
@@ -62,8 +62,8 @@
     {
       "name": "Mira",
       "place": "scout_tower",
-      "activity": "Scanning research leads",
-      "status": "working",
+      "activity": "Resting",
+      "status": "sleeping",
       "last_active": "2026-10-15T04:28:48-05:00",
       "role": "Neko · Research Scout",
       "projects": [
@@ -207,8 +207,8 @@
     {
       "name": "Luna",
       "place": "media_studio",
-      "activity": "Planning social posts",
-      "status": "working",
+      "activity": "Resting",
+      "status": "sleeping",
       "last_active": "2026-10-15T13:31:46-05:00",
       "role": "Fox-girl · Social Lead",
       "projects": [
