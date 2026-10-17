@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-16 15:11 CDT",
-  "updated_iso": "2026-10-16T15:11:28-05:00",
-  "server_time": "2026-10-16T15:11:28-05:00",
-  "is_night": false,
+  "updated": "2026-10-17 01:15 CDT",
+  "updated_iso": "2026-10-17T01:15:37-05:00",
+  "server_time": "2026-10-17T01:15:37-05:00",
+  "is_night": true,
   "poll_seconds": 120,
   "goal": {
     "monthly_target": 6000,
@@ -17,7 +17,7 @@
       "place": "command_hall",
       "activity": "Resting",
       "status": "sleeping",
-      "last_active": "2026-10-12T16:59:44-05:00",
+      "last_active": "2026-10-16T19:15:14-05:00",
       "role": "Elf · Orchestrator",
       "projects": [],
       "skills": [
@@ -35,13 +35,13 @@
       "place": "counting_house",
       "activity": "Resting",
       "status": "sleeping",
-      "last_active": "2026-10-12T16:59:45-05:00",
+      "last_active": "2026-10-16T19:15:14-05:00",
       "role": "Neko · CFO",
       "projects": [
         {
           "name": "trusts-types-and-opening-steps.md",
           "path": "work/reports/trusts-types-and-opening-steps.md",
-          "date": "2026-10-12",
+          "date": "2026-10-16",
           "summary": "Nyx / Veil Capital: Trusts Brief Kinds of trusts and how each one gets set up (a primer for Blue Foxx)"
         }
       ],
@@ -62,40 +62,40 @@
     {
       "name": "Mira",
       "place": "scout_tower",
-      "activity": "Waiting for a task",
-      "status": "idle",
-      "last_active": "2026-10-15T04:28:48-05:00",
+      "activity": "Resting",
+      "status": "sleeping",
+      "last_active": "2026-10-16T19:15:15-05:00",
       "role": "Neko · Research Scout",
       "projects": [
         {
-          "name": "2026-10-15-scouting.md",
-          "path": "reports/2026-10-15-scouting.md",
-          "date": "2026-10-15",
-          "summary": "Luna Foxx scouting — Thu Oct 15, 2026 Research only. Nothing was posted, signed up for, bought, or sent. Halloween is **16 days** out (Oc…"
-        },
-        {
-          "name": "2026-10-15-trending-ideas.md",
-          "path": "reports/2026-10-15-trending-ideas.md",
-          "date": "2026-10-15",
-          "summary": "Luna Foxx scouting — Thu Oct 15, 2026 Research only. Nothing was posted, signed up for, bought, or sent. Halloween is **16 days** out (Oc…"
-        },
-        {
           "name": "2026-10-14-paid-image-packs-market.md",
           "path": "reports/2026-10-14-paid-image-packs-market.md",
-          "date": "2026-10-14",
+          "date": "2026-10-16",
           "summary": "Paid Image / Wallpaper Packs: Market Check (Oct 14, 2026) Mira Frostwhisker, research only. Nothing was signed up for, posted, bought, or…"
         },
         {
           "name": "2026-10-12-pod-merch-ideas.md",
           "path": "reports/2026-10-12-pod-merch-ideas.md",
-          "date": "2026-10-12",
+          "date": "2026-10-16",
           "summary": "Shadow Garden POD Merch Idea Bank (Etsy): Oct 12, 2026 Mira, research only. Nothing has been signed up for, posted, or bought.*"
+        },
+        {
+          "name": "2026-10-15-trending-ideas.md",
+          "path": "reports/2026-10-15-trending-ideas.md",
+          "date": "2026-10-16",
+          "summary": "Luna Foxx scouting — Thu Oct 15, 2026 Research only. Nothing was posted, signed up for, bought, or sent. Halloween is **16 days** out (Oc…"
         },
         {
           "name": "2026-10-12-trending-ideas.md",
           "path": "reports/2026-10-12-trending-ideas.md",
-          "date": "2026-10-12",
+          "date": "2026-10-16",
           "summary": "Luna Foxx scouting — Mon Oct 12, 2026 Research only. Nothing was posted, signed up for, bought, or sent. Halloween is 19 days out. Nearly…"
+        },
+        {
+          "name": "2026-10-15-scouting.md",
+          "path": "reports/2026-10-15-scouting.md",
+          "date": "2026-10-16",
+          "summary": "Luna Foxx scouting — Thu Oct 15, 2026 Research only. Nothing was posted, signed up for, bought, or sent. Halloween is **16 days** out (Oc…"
         }
       ],
       "skills": [
@@ -133,13 +133,13 @@
       "place": "trading_office",
       "activity": "Resting",
       "status": "sleeping",
-      "last_active": "2026-10-12T16:59:45-05:00",
+      "last_active": "2026-10-16T19:15:14-05:00",
       "role": "High Elf · Stocks",
       "projects": [
         {
           "name": "beginner-investing-research-2026-10-07.md",
           "path": "work/beginner-investing-research-2026-10-07.md",
-          "date": "2026-10-12",
+          "date": "2026-10-16",
           "summary": "Beginner Investing Research Brief Prepared for Foxx · Research only · Not financial advice · Data as of ~Oct 6–7, 2026*"
         }
       ],
@@ -207,33 +207,33 @@
     {
       "name": "Luna",
       "place": "media_studio",
-      "activity": "Waiting for a task",
-      "status": "idle",
-      "last_active": "2026-10-15T13:31:46-05:00",
+      "activity": "Resting",
+      "status": "sleeping",
+      "last_active": "2026-10-16T19:15:15-05:00",
       "role": "Fox-girl · Social Lead",
       "projects": [
         {
           "name": "2026-10-15-clipper-page-howto.md",
           "path": "work/2026-10-15-clipper-page-howto.md",
-          "date": "2026-10-15",
+          "date": "2026-10-16",
           "summary": "Clipper Page How-To — Luna Foxx / Shadow Garden *Date:** 2026-10-15"
-        },
-        {
-          "name": "HALLOWEEN_DROP1_HANDOFF.md",
-          "path": "work/HALLOWEEN_DROP1_HANDOFF.md",
-          "date": "2026-10-14",
-          "summary": "Halloween Drop #1 assets (ready, not live) Fill-in sheet"
         },
         {
           "name": "2026-10-11-gumroad-halloween-fill-in.md",
           "path": "work/2026-10-11-gumroad-halloween-fill-in.md",
-          "date": "2026-10-14",
+          "date": "2026-10-16",
           "summary": "Copy each value into the matching box on Gumroad's new-product form. Box names can differ a little on Gumroad's side; match by meaning. N…"
+        },
+        {
+          "name": "HALLOWEEN_DROP1_HANDOFF.md",
+          "path": "work/HALLOWEEN_DROP1_HANDOFF.md",
+          "date": "2026-10-16",
+          "summary": "Halloween Drop #1 assets (ready, not live) Fill-in sheet"
         },
         {
           "name": "988-sad-page.md",
           "path": "work/988-sad-page.md",
-          "date": "2026-10-12",
+          "date": "2026-10-16",
           "summary": "#988 SAD page — research + draft Prepared 2026-10-09 for Blue / Luna Foxx site. Part A = research notes (every claim has a URL). Part B =…"
         }
       ],
@@ -245,7 +245,7 @@
       "place": "guard_post",
       "activity": "Resting",
       "status": "sleeping",
-      "last_active": "2026-10-12T16:59:41-05:00",
+      "last_active": "2026-10-16T19:15:11-05:00",
       "role": "Wolf beastkin · Security",
       "projects": [],
       "skills": [],
