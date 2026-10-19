@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-19 03:12 CDT",
-  "updated_iso": "2026-10-19T03:12:59-05:00",
-  "server_time": "2026-10-19T03:12:59-05:00",
+  "updated": "2026-10-19 05:08 CDT",
+  "updated_iso": "2026-10-19T05:08:16-05:00",
+  "server_time": "2026-10-19T05:08:16-05:00",
   "is_night": true,
   "poll_seconds": 120,
   "goal": {
@@ -64,9 +64,15 @@
       "place": "scout_tower",
       "activity": "Resting",
       "status": "sleeping",
-      "last_active": "2026-10-18T13:23:32-05:00",
+      "last_active": "2026-10-19T12:00:00-05:00",
       "role": "Neko · Research Scout",
       "projects": [
+        {
+          "name": "2026-10-19-trending-ideas.md",
+          "path": "reports/2026-10-19-trending-ideas.md",
+          "date": "2026-10-19",
+          "summary": "Luna Foxx scouting — Mon Oct 19, 2026 Mira, research only. Nothing was posted, signed up for, bought, or sent. Crypto and stocks left out…"
+        },
         {
           "name": "2026-10-12-trending-ideas.md",
           "path": "reports/2026-10-12-trending-ideas.md",
@@ -90,12 +96,6 @@
           "path": "reports/2026-10-14-paid-image-packs-market.md",
           "date": "2026-10-18",
           "summary": "Paid Image / Wallpaper Packs: Market Check (Oct 14, 2026) Mira Frostwhisker, research only. Nothing was signed up for, posted, bought, or…"
-        },
-        {
-          "name": "2026-10-15-scouting.md",
-          "path": "reports/2026-10-15-scouting.md",
-          "date": "2026-10-18",
-          "summary": "Luna Foxx scouting — Thu Oct 15, 2026 Research only. Nothing was posted, signed up for, bought, or sent. Halloween is **16 days** out (Oc…"
         }
       ],
       "skills": [
