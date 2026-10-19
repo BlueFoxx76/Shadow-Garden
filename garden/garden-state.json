@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-19 09:08 CDT",
-  "updated_iso": "2026-10-19T09:08:01-05:00",
-  "server_time": "2026-10-19T09:08:01-05:00",
+  "updated": "2026-10-19 11:40 CDT",
+  "updated_iso": "2026-10-19T11:40:17-05:00",
+  "server_time": "2026-10-19T11:40:17-05:00",
   "is_night": false,
   "poll_seconds": 120,
   "goal": {
@@ -245,7 +245,7 @@
       "place": "guard_post",
       "activity": "Patrolling the grounds",
       "status": "working",
-      "last_active": "2026-10-18T13:23:28-05:00",
+      "last_active": "2026-10-19T12:00:00-05:00",
       "role": "Wolf beastkin · Security",
       "projects": [],
       "skills": [],
