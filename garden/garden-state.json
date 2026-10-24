@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-24 01:11 CDT",
-  "updated_iso": "2026-10-24T01:11:25-05:00",
-  "server_time": "2026-10-24T01:11:25-05:00",
+  "updated": "2026-10-24 03:14 CDT",
+  "updated_iso": "2026-10-24T03:14:56-05:00",
+  "server_time": "2026-10-24T03:14:56-05:00",
   "is_night": true,
   "poll_seconds": 120,
   "goal": {
@@ -251,7 +251,7 @@
       "place": "guard_post",
       "activity": "Resting",
       "status": "sleeping",
-      "last_active": "2026-10-23T22:50:26-05:00",
+      "last_active": "2026-10-24T12:00:00-05:00",
       "role": "Wolf beastkin · Security",
       "projects": [],
       "skills": [],
