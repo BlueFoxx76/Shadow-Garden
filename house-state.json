@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-23 15:12 CDT",
-  "updated_iso": "2026-10-23T15:12:07-05:00",
+  "updated": "2026-10-24 01:11 CDT",
+  "updated_iso": "2026-10-24T01:11:25-05:00",
   "agents": [
     {
       "name": "Luna",
-      "room": "kitchen",
-      "activity": "Cooking in the kitchen"
-    },
-    {
-      "name": "Delta",
-      "room": "u_bed3",
+      "room": "master",
       "activity": "Resting"
     },
     {
+      "name": "Delta",
+      "room": "yard",
+      "activity": "Out in the yard"
+    },
+    {
       "name": "Nozomi",
-      "room": "bay",
-      "activity": "Waiting in the shop sunlight"
+      "room": "u_bed2",
+      "activity": "Resting"
     }
   ]
 }
