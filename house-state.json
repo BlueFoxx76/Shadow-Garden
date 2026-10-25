@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-25 07:14 CDT",
-  "updated_iso": "2026-10-25T07:14:13-05:00",
+  "updated": "2026-10-25 13:13 CDT",
+  "updated_iso": "2026-10-25T13:13:13-05:00",
   "agents": [
     {
       "name": "Luna",
-      "room": "kitchen",
-      "activity": "Cooking in the kitchen"
+      "room": "master",
+      "activity": "Resting"
     },
     {
       "name": "Delta",
