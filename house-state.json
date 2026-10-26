@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-26 07:15 CDT",
-  "updated_iso": "2026-10-26T07:15:22-05:00",
+  "updated": "2026-10-26 09:19 CDT",
+  "updated_iso": "2026-10-26T09:19:14-05:00",
   "agents": [
     {
       "name": "Luna",
-      "room": "master",
-      "activity": "Resting"
+      "room": "living",
+      "activity": "In the living room"
     },
     {
       "name": "Delta",
-      "room": "shop",
-      "activity": "Training in the shop"
+      "room": "porch_back",
+      "activity": "On the porch"
     },
     {
       "name": "Nozomi",
