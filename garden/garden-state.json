@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-27 17:13 CDT",
-  "updated_iso": "2026-10-27T17:13:40-05:00",
-  "server_time": "2026-10-27T17:13:40-05:00",
-  "is_night": false,
+  "updated": "2026-10-28 01:08 CDT",
+  "updated_iso": "2026-10-28T01:08:58-05:00",
+  "server_time": "2026-10-28T01:08:58-05:00",
+  "is_night": true,
   "poll_seconds": 120,
   "goal": {
     "monthly_target": 6000,
@@ -62,8 +62,8 @@
     {
       "name": "Mira",
       "place": "scout_tower",
-      "activity": "Waiting for a task",
-      "status": "idle",
+      "activity": "Resting",
+      "status": "sleeping",
       "last_active": "2026-10-26T12:00:00-05:00",
       "role": "Neko · Research Scout",
       "projects": [
@@ -176,8 +176,8 @@
     {
       "name": "Jack",
       "place": "workshop",
-      "activity": "Waiting for a task",
-      "status": "idle",
+      "activity": "Resting",
+      "status": "sleeping",
       "last_active": "2026-10-26T08:25:34-05:00",
       "role": "Dwarf · Construction",
       "projects": [
@@ -256,9 +256,9 @@
     {
       "name": "Delta",
       "place": "guard_post",
-      "activity": "Patrolling the grounds",
-      "status": "working",
-      "last_active": "2026-10-27T09:29:30-05:00",
+      "activity": "Resting",
+      "status": "sleeping",
+      "last_active": null,
       "role": "Wolf beastkin · Security",
       "projects": [],
       "skills": [],
