@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-28 05:16 CDT",
-  "updated_iso": "2026-10-28T05:16:13-05:00",
-  "server_time": "2026-10-28T05:16:13-05:00",
-  "is_night": true,
+  "updated": "2026-10-28 07:09 CDT",
+  "updated_iso": "2026-10-28T07:09:44-05:00",
+  "server_time": "2026-10-28T07:09:44-05:00",
+  "is_night": false,
   "poll_seconds": 120,
   "goal": {
     "monthly_target": 6000,
@@ -62,8 +62,8 @@
     {
       "name": "Mira",
       "place": "scout_tower",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Waiting for a task",
+      "status": "idle",
       "last_active": "2026-10-26T12:00:00-05:00",
       "role": "Neko · Research Scout",
       "projects": [
@@ -176,8 +176,8 @@
     {
       "name": "Jack",
       "place": "workshop",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Waiting for a task",
+      "status": "idle",
       "last_active": "2026-10-26T08:25:34-05:00",
       "role": "Dwarf · Construction",
       "projects": [
