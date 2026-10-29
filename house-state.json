@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-29 07:15 CDT",
-  "updated_iso": "2026-10-29T07:15:59-05:00",
+  "updated": "2026-10-29 13:07 CDT",
+  "updated_iso": "2026-10-29T13:07:29-05:00",
   "agents": [
     {
       "name": "Luna",
-      "room": "master",
-      "activity": "Resting"
+      "room": "kitchen",
+      "activity": "Cooking in the kitchen"
     },
     {
       "name": "Delta",
-      "room": "porch_back",
-      "activity": "On the porch"
+      "room": "u_bed3",
+      "activity": "Resting"
     },
     {
       "name": "Nozomi",
