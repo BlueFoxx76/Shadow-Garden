@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-29 07:15 CDT",
-  "updated_iso": "2026-10-29T07:15:59-05:00",
-  "server_time": "2026-10-29T07:15:59-05:00",
+  "updated": "2026-10-29 09:12 CDT",
+  "updated_iso": "2026-10-29T09:12:00-05:00",
+  "server_time": "2026-10-29T09:12:00-05:00",
   "is_night": false,
   "poll_seconds": 120,
   "goal": {
@@ -176,8 +176,8 @@
     {
       "name": "Jack",
       "place": "workshop",
-      "activity": "Waiting for a task",
-      "status": "idle",
+      "activity": "Resting",
+      "status": "sleeping",
       "last_active": "2026-10-26T08:25:34-05:00",
       "role": "Dwarf · Construction",
       "projects": [
