@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02 00:06 CST",
-  "updated_iso": "2026-11-02T00:06:42-06:00",
+  "updated": "2026-11-02 06:15 CST",
+  "updated_iso": "2026-11-02T06:15:32-06:00",
   "agents": [
     {
       "name": "Luna",
@@ -14,8 +14,8 @@
     },
     {
       "name": "Nozomi",
-      "room": "u_bed2",
-      "activity": "Resting"
+      "room": "bay",
+      "activity": "Waiting in the shop sunlight"
     }
   ]
 }
