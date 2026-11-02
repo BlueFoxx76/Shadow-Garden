@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-01 12:13 CST",
-  "updated_iso": "2026-11-01T12:13:51-06:00",
-  "server_time": "2026-11-01T12:13:51-06:00",
-  "is_night": false,
+  "updated": "2026-11-02 00:06 CST",
+  "updated_iso": "2026-11-02T00:06:42-06:00",
+  "server_time": "2026-11-02T00:06:42-06:00",
+  "is_night": true,
   "poll_seconds": 120,
   "goal": {
     "monthly_target": 6000,
@@ -256,8 +256,8 @@
     {
       "name": "Delta",
       "place": "guard_post",
-      "activity": "Waiting for a task",
-      "status": "idle",
+      "activity": "Resting",
+      "status": "sleeping",
       "last_active": "2026-10-31T12:00:00-05:00",
       "role": "Wolf beastkin · Security",
       "projects": [],
