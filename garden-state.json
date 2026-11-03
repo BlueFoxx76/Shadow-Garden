@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-03 06:08 CST",
-  "updated_iso": "2026-11-03T06:08:40-06:00",
-  "server_time": "2026-11-03T06:08:40-06:00",
+  "updated": "2026-11-03 08:16 CST",
+  "updated_iso": "2026-11-03T08:16:07-06:00",
+  "server_time": "2026-11-03T08:16:07-06:00",
   "is_night": false,
   "poll_seconds": 120,
   "goal": {
@@ -256,9 +256,9 @@
     {
       "name": "Delta",
       "place": "guard_post",
-      "activity": "Waiting for a task",
-      "status": "idle",
-      "last_active": "2026-10-31T12:00:00-05:00",
+      "activity": "Patrolling the grounds",
+      "status": "working",
+      "last_active": "2026-11-03T12:00:00-06:00",
       "role": "Wolf beastkin · Security",
       "projects": [],
       "skills": [],
