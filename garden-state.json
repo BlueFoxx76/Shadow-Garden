@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-03 00:07 CST",
-  "updated_iso": "2026-11-03T00:07:14-06:00",
-  "server_time": "2026-11-03T00:07:14-06:00",
-  "is_night": true,
+  "updated": "2026-11-03 06:08 CST",
+  "updated_iso": "2026-11-03T06:08:40-06:00",
+  "server_time": "2026-11-03T06:08:40-06:00",
+  "is_night": false,
   "poll_seconds": 120,
   "goal": {
     "monthly_target": 6000,
@@ -62,8 +62,8 @@
     {
       "name": "Mira",
       "place": "scout_tower",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Scanning research leads",
+      "status": "working",
       "last_active": "2026-11-02T12:00:00-06:00",
       "role": "Neko · Research Scout",
       "projects": [
@@ -256,8 +256,8 @@
     {
       "name": "Delta",
       "place": "guard_post",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Waiting for a task",
+      "status": "idle",
       "last_active": "2026-10-31T12:00:00-05:00",
       "role": "Wolf beastkin · Security",
       "projects": [],
