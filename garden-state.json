@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-03 08:16 CST",
-  "updated_iso": "2026-11-03T08:16:07-06:00",
-  "server_time": "2026-11-03T08:16:07-06:00",
+  "updated": "2026-11-03 12:13 CST",
+  "updated_iso": "2026-11-03T12:13:12-06:00",
+  "server_time": "2026-11-03T12:13:12-06:00",
   "is_night": false,
   "poll_seconds": 120,
   "goal": {
@@ -62,9 +62,9 @@
     {
       "name": "Mira",
       "place": "scout_tower",
-      "activity": "Scanning research leads",
-      "status": "working",
-      "last_active": "2026-11-02T12:00:00-06:00",
+      "activity": "Waiting for a task",
+      "status": "idle",
+      "last_active": "2026-11-02T03:26:19-06:00",
       "role": "Neko · Research Scout",
       "projects": [
         {
