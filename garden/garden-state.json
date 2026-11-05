@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-05 02:08 CST",
-  "updated_iso": "2026-11-05T02:08:25-06:00",
-  "server_time": "2026-11-05T02:08:25-06:00",
+  "updated": "2026-11-05 04:10 CST",
+  "updated_iso": "2026-11-05T04:10:53-06:00",
+  "server_time": "2026-11-05T04:10:53-06:00",
   "is_night": true,
   "poll_seconds": 120,
   "goal": {
@@ -64,9 +64,15 @@
       "place": "scout_tower",
       "activity": "Resting",
       "status": "sleeping",
-      "last_active": "2026-11-02T03:26:19-06:00",
+      "last_active": "2026-11-05T12:00:00-06:00",
       "role": "Neko · Research Scout",
       "projects": [
+        {
+          "name": "2026-11-05-trending-ideas.md",
+          "path": "reports/2026-11-05-trending-ideas.md",
+          "date": "2026-11-05",
+          "summary": "Luna Foxx scouting — Thu Nov 5, 2026 *Labels:** **[Fact]** = from the linked source (fetched this run unless marked \"search snippet\"). **…"
+        },
         {
           "name": "2026-11-02-trending-ideas.md",
           "path": "reports/2026-11-02-trending-ideas.md",
@@ -90,12 +96,6 @@
           "path": "reports/2026-10-19-trending-ideas.md",
           "date": "2026-10-24",
           "summary": "Luna Foxx scouting — Mon Oct 19, 2026 Mira, research only. Nothing was posted, signed up for, bought, or sent. Crypto and stocks left out…"
-        },
-        {
-          "name": "2026-10-22-trending-ideas.md",
-          "path": "reports/2026-10-22-trending-ideas.md",
-          "date": "2026-10-24",
-          "summary": "Luna Foxx scouting — Thu Oct 22, 2026 *Labels:** **[Fact]** = from the linked source (I fetched each link this run). **[Read]** = my opin…"
         }
       ],
       "skills": [
