@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-05 16:15 CST",
-  "updated_iso": "2026-11-05T16:15:56-06:00",
-  "server_time": "2026-11-05T16:15:56-06:00",
-  "is_night": false,
+  "updated": "2026-11-06 00:16 CST",
+  "updated_iso": "2026-11-06T00:16:02-06:00",
+  "server_time": "2026-11-06T00:16:02-06:00",
+  "is_night": true,
   "poll_seconds": 120,
   "goal": {
     "monthly_target": 6000,
@@ -17,7 +17,7 @@
       "place": "command_hall",
       "activity": "Resting",
       "status": "sleeping",
-      "last_active": "2026-10-24T04:54:57-05:00",
+      "last_active": "2026-11-05T19:45:13-06:00",
       "role": "Elf · Orchestrator",
       "projects": [],
       "skills": [
@@ -35,13 +35,13 @@
       "place": "counting_house",
       "activity": "Resting",
       "status": "sleeping",
-      "last_active": "2026-10-24T04:54:57-05:00",
+      "last_active": "2026-11-05T19:45:13-06:00",
       "role": "Neko · CFO",
       "projects": [
         {
           "name": "trusts-types-and-opening-steps.md",
           "path": "work/reports/trusts-types-and-opening-steps.md",
-          "date": "2026-10-24",
+          "date": "2026-11-05",
           "summary": "Nyx / Veil Capital: Trusts Brief Kinds of trusts and how each one gets set up (a primer for Blue Foxx)"
         }
       ],
@@ -62,9 +62,9 @@
     {
       "name": "Mira",
       "place": "scout_tower",
-      "activity": "Scanning research leads",
-      "status": "working",
-      "last_active": "2026-11-05T12:00:00-06:00",
+      "activity": "Resting",
+      "status": "sleeping",
+      "last_active": "2026-11-05T19:45:23-06:00",
       "role": "Neko · Research Scout",
       "projects": [
         {
@@ -76,25 +76,25 @@
         {
           "name": "2026-11-02-trending-ideas.md",
           "path": "reports/2026-11-02-trending-ideas.md",
-          "date": "2026-11-02",
+          "date": "2026-11-05",
           "summary": "Luna Foxx scouting — Mon Nov 2, 2026 *Labels:** **[Fact]** = from the linked source (I fetched each link this run unless marked \"search s…"
         },
         {
           "name": "2026-10-29-trending-ideas.md",
           "path": "reports/2026-10-29-trending-ideas.md",
-          "date": "2026-10-29",
+          "date": "2026-11-05",
           "summary": "Luna Foxx scouting — Thu Oct 29, 2026 *Labels:** **[Fact]** = from the linked source (I fetched each link this run). **[Read]** = my opin…"
         },
         {
           "name": "2026-10-26-trending-ideas.md",
           "path": "reports/2026-10-26-trending-ideas.md",
-          "date": "2026-10-26",
+          "date": "2026-11-05",
           "summary": "Luna Foxx scouting — Mon Oct 26, 2026 *Labels:** **[Fact]** = from the linked source (I fetched each link this run). **[Read]** = my opin…"
         },
         {
           "name": "2026-10-19-trending-ideas.md",
           "path": "reports/2026-10-19-trending-ideas.md",
-          "date": "2026-10-24",
+          "date": "2026-11-05",
           "summary": "Luna Foxx scouting — Mon Oct 19, 2026 Mira, research only. Nothing was posted, signed up for, bought, or sent. Crypto and stocks left out…"
         }
       ],
@@ -133,13 +133,13 @@
       "place": "trading_office",
       "activity": "Resting",
       "status": "sleeping",
-      "last_active": "2026-10-24T04:54:57-05:00",
+      "last_active": "2026-11-05T19:45:13-06:00",
       "role": "High Elf · Stocks",
       "projects": [
         {
           "name": "beginner-investing-research-2026-10-07.md",
           "path": "work/beginner-investing-research-2026-10-07.md",
-          "date": "2026-10-24",
+          "date": "2026-11-05",
           "summary": "Beginner Investing Research Brief Prepared for Foxx · Research only · Not financial advice · Data as of ~Oct 6–7, 2026*"
         }
       ],
@@ -178,13 +178,13 @@
       "place": "workshop",
       "activity": "Resting",
       "status": "sleeping",
-      "last_active": "2026-10-26T08:25:34-05:00",
+      "last_active": "2026-11-05T19:45:20-06:00",
       "role": "Dwarf · Construction",
       "projects": [
         {
           "name": "2026-10-26-garden-vault-and-tunnels.md",
           "path": "plans/2026-10-26-garden-vault-and-tunnels.md",
-          "date": "2026-10-26",
+          "date": "2026-11-05",
           "summary": "Garden Vault & Tunnels: first-pass plan (Jack, 2026-10-26) Sources: (pages 1-4)"
         }
       ],
@@ -216,37 +216,37 @@
       "place": "media_studio",
       "activity": "Resting",
       "status": "sleeping",
-      "last_active": "2026-10-24T04:54:58-05:00",
+      "last_active": "2026-11-05T19:45:18-06:00",
       "role": "Fox-girl · Social Lead",
       "projects": [
         {
           "name": "2026-10-20-bathhouse-scene.md",
           "path": "work/2026-10-20-bathhouse-scene.md",
-          "date": "2026-10-24",
+          "date": "2026-11-05",
           "summary": "Getting Ready and the Drive It's a wooden building with paper lanterns and a red curtain over the door. Mika teared up because her mom's …"
-        },
-        {
-          "name": "2026-10-22-delta-doctor-list.md",
-          "path": "work/2026-10-22-delta-doctor-list.md",
-          "date": "2026-10-24",
-          "summary": "Delta's doctor search (in-world, house canon draft) — started 2026-10-22 Blue asked: a doctor for Delta's pregnancy who knows beastkin (w…"
         },
         {
           "name": "2026-10-22-town-trip.md",
           "path": "work/2026-10-22-town-trip.md",
-          "date": "2026-10-24",
+          "date": "2026-11-05",
           "summary": "Town trip — 2026-10-22 (posted to Full House) Baby store: ordered natural-wood crib + mattress for Bed #2; night-vision camera + 3 monito…"
+        },
+        {
+          "name": "2026-10-22-delta-doctor-list.md",
+          "path": "work/2026-10-22-delta-doctor-list.md",
+          "date": "2026-11-05",
+          "summary": "Delta's doctor search (in-world, house canon draft) — started 2026-10-22 Blue asked: a doctor for Delta's pregnancy who knows beastkin (w…"
         },
         {
           "name": "2026-10-15-clipper-page-howto.md",
           "path": "work/2026-10-15-clipper-page-howto.md",
-          "date": "2026-10-24",
+          "date": "2026-11-05",
           "summary": "Clipper Page How-To — Luna Foxx / Shadow Garden *Date:** 2026-10-15"
         },
         {
           "name": "2026-10-11-gumroad-halloween-fill-in.md",
           "path": "work/2026-10-11-gumroad-halloween-fill-in.md",
-          "date": "2026-10-24",
+          "date": "2026-11-05",
           "summary": "Copy each value into the matching box on Gumroad's new-product form. Box names can differ a little on Gumroad's side; match by meaning. N…"
         }
       ],
@@ -256,9 +256,9 @@
     {
       "name": "Delta",
       "place": "guard_post",
-      "activity": "Waiting for a task",
-      "status": "idle",
-      "last_active": "2026-11-03T18:44:33-06:00",
+      "activity": "Resting",
+      "status": "sleeping",
+      "last_active": "2026-11-05T19:45:21-06:00",
       "role": "Wolf beastkin · Security",
       "projects": [],
       "skills": [],
