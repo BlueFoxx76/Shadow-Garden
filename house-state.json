@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-08 00:14 CST",
-  "updated_iso": "2026-11-08T00:14:37-06:00",
+  "updated": "2026-11-08 06:08 CST",
+  "updated_iso": "2026-11-08T06:08:03-06:00",
   "agents": [
     {
       "name": "Luna",
-      "room": "lake",
-      "activity": "By the water"
+      "room": "kitchen",
+      "activity": "Cooking in the kitchen"
     },
     {
       "name": "Delta",
@@ -14,8 +14,8 @@
     },
     {
       "name": "Nozomi",
-      "room": "u_bed2",
-      "activity": "Resting"
+      "room": "bay",
+      "activity": "Waiting in the shop sunlight"
     }
   ]
 }
