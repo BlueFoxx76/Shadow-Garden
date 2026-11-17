@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-17 00:13 CST",
-  "updated_iso": "2026-11-17T00:13:16-06:00",
-  "server_time": "2026-11-17T00:13:16-06:00",
-  "is_night": true,
+  "updated": "2026-11-17 06:06 CST",
+  "updated_iso": "2026-11-17T06:06:20-06:00",
+  "server_time": "2026-11-17T06:06:20-06:00",
+  "is_night": false,
   "poll_seconds": 120,
   "goal": {
     "monthly_target": 6000,
@@ -15,8 +15,8 @@
     {
       "name": "Max",
       "place": "command_hall",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Waiting for a task",
+      "status": "idle",
       "last_active": "2026-11-16T00:00:36-06:00",
       "role": "Elf · Orchestrator",
       "projects": [],
@@ -33,8 +33,8 @@
     {
       "name": "Nyx",
       "place": "counting_house",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Waiting for a task",
+      "status": "idle",
       "last_active": "2026-11-16T00:00:35-06:00",
       "role": "Neko · CFO",
       "projects": [
@@ -62,8 +62,8 @@
     {
       "name": "Mira",
       "place": "scout_tower",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Scanning research leads",
+      "status": "working",
       "last_active": "2026-11-16T12:00:00-06:00",
       "role": "Neko · Research Scout",
       "projects": [
@@ -131,8 +131,8 @@
     {
       "name": "Chad",
       "place": "trading_office",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Waiting for a task",
+      "status": "idle",
       "last_active": "2026-11-16T00:00:38-06:00",
       "role": "High Elf · Stocks",
       "projects": [
@@ -176,8 +176,8 @@
     {
       "name": "Jack",
       "place": "workshop",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Waiting for a task",
+      "status": "idle",
       "last_active": "2026-11-16T00:00:36-06:00",
       "role": "Dwarf · Construction",
       "projects": [
@@ -214,8 +214,8 @@
     {
       "name": "Luna",
       "place": "media_studio",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Waiting for a task",
+      "status": "idle",
       "last_active": "2026-11-16T00:00:38-06:00",
       "role": "Fox-girl · Social Lead",
       "projects": [
@@ -256,8 +256,8 @@
     {
       "name": "Delta",
       "place": "guard_post",
-      "activity": "Resting",
-      "status": "sleeping",
+      "activity": "Waiting for a task",
+      "status": "idle",
       "last_active": "2026-11-16T00:00:36-06:00",
       "role": "Wolf beastkin · Security",
       "projects": [],
