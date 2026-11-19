@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-19 00:09 CST",
-  "updated_iso": "2026-11-19T00:09:20-06:00",
-  "server_time": "2026-11-19T00:09:20-06:00",
-  "is_night": true,
+  "updated": "2026-11-19 06:14 CST",
+  "updated_iso": "2026-11-19T06:14:38-06:00",
+  "server_time": "2026-11-19T06:14:38-06:00",
+  "is_night": false,
   "poll_seconds": 120,
   "goal": {
     "monthly_target": 6000,
@@ -62,11 +62,17 @@
     {
       "name": "Mira",
       "place": "scout_tower",
-      "activity": "Resting",
-      "status": "sleeping",
-      "last_active": "2026-11-16T12:00:00-06:00",
+      "activity": "Scanning research leads",
+      "status": "working",
+      "last_active": "2026-11-19T12:00:00-06:00",
       "role": "Neko · Research Scout",
       "projects": [
+        {
+          "name": "2026-11-19-trending-ideas.md",
+          "path": "reports/2026-11-19-trending-ideas.md",
+          "date": "2026-11-19",
+          "summary": "Trend Scout Report: Thursday, Nov 19, 2026 Mira Frostwhisker (Research & Trend Scout) for Maxine and Foxx. Research only.*"
+        },
         {
           "name": "2026-11-16-trending-ideas.md",
           "path": "reports/2026-11-16-trending-ideas.md",
@@ -90,12 +96,6 @@
           "path": "reports/2026-10-22-trending-ideas.md",
           "date": "2026-11-16",
           "summary": "Luna Foxx scouting — Thu Oct 22, 2026 *Labels:** **[Fact]** = from the linked source (I fetched each link this run). **[Read]** = my opin…"
-        },
-        {
-          "name": "2026-10-15-trending-ideas.md",
-          "path": "reports/2026-10-15-trending-ideas.md",
-          "date": "2026-11-16",
-          "summary": "Luna Foxx scouting — Thu Oct 15, 2026 Research only. Nothing was posted, signed up for, bought, or sent. Halloween is **16 days** out (Oc…"
         }
       ],
       "skills": [
